@@ -1,40 +1,60 @@
-const crypto = require('crypto');
+const snarkjs = require("snarkjs");
+const fs = require("fs");
+const path = require("path");
 
 class ZKProof {
     constructor() {
-        this.secret = null; // The secret value to prove knowledge of
-        this.publicKey = null; // The public key derived from the secret
+        this.circuit = null; // The circuit for the zk-SNARK
+        this.proof = null; // The generated proof
+        this.publicSignals = null; // The public signals
     }
 
-    generateKeyPair() {
-        // Generate a random secret and derive the public key
-        this.secret = crypto.randomBytes(32);
-        this.publicKey = this.hash(this.secret);
-        return this.publicKey;
+    async setupCircuit(circuitFile) {
+        // Load the circuit from a file
+        const circuitPath = path.resolve(__dirname, circuitFile);
+        this.circuit = await snarkjs.circuits.load(circuitPath);
+        console.log("Circuit loaded successfully.");
     }
 
-    hash(data) {
-        return crypto.createHash('sha256').update(data).digest('hex');
-    }
-
-    createProof(secret) {
-        if (!this.publicKey) {
-            throw new Error('Public key not generated.');
+    async generateProof(inputs) {
+        if (!this.circuit) {
+            throw new Error("Circuit not set up. Call setupCircuit first.");
         }
 
-        const r = crypto.randomBytes(32); // Random nonce
-        const R = this.hash(r); // Commitment
-        const challenge = this.hash(R + this.publicKey); // Challenge
-        const response = this.hash(r + this.hash(secret + challenge)); // Response
-
-        return { R, challenge, response };
+        // Generate the proof and public signals
+        const { proof, publicSignals } = await snarkjs.groth16.fullProve(this.circuit, inputs);
+        this.proof = proof;
+        this.publicSignals = publicSignals;
+        console.log("Proof generated successfully.");
+        return { proof, publicSignals };
     }
 
-    verifyProof(proof) {
-        const { R, challenge, response } = proof;
-        const left = this.hash(response + challenge);
-        const right = this.hash(R + this.publicKey);
-        return left === right;
+    async verifyProof() {
+        if (!this.proof || !this.publicSignals) {
+            throw new Error("Proof or public signals not generated.");
+        }
+
+        // Verify the proof
+        const isValid = await snarkjs.groth16.verify(this.circuit.vk, this.publicSignals, this.proof);
+        console.log(`Proof verification result: ${isValid}`);
+        return isValid;
+    }
+
+    async exportProof(outputFile) {
+        if (!this.proof) {
+            throw new Error("No proof generated to export.");
+        }
+
+        // Export the proof to a JSON file
+        fs.writeFileSync(outputFile, JSON.stringify(this.proof));
+        console.log(`Proof exported to ${outputFile}`);
+    }
+
+    async importProof(inputFile) {
+        // Import a proof from a JSON file
+        const proofData = fs.readFileSync(inputFile);
+        this.proof = JSON.parse(proofData);
+        console.log(`Proof imported from ${inputFile}`);
     }
 }
 
