@@ -1,47 +1,147 @@
-{
-    "contractName": "SmartContract",
-    "methods": [
-        {
-            "name": "setState",
-            "inputs": [
-                { "name": "key", "type": "string" },
-                { "name": "value", "type": "string" }
-            ],
-            "outputs": [
-                { "name": "state", "type": "object" }
-            ]
-        },
-        {
-            "name": "getState",
-            "inputs": [
-                { "name": "key", "type": "string" }
-            ],
-            "outputs": [
-                { "name": "value", "type": "string" }
-            ]
-        },
-        {
-            "name": "getEvents",
-            "inputs": [],
-            "outputs": [
-                { "name": "events", "type": "array" }
-            ]
-        }
-    ],
-    "events": [
-        {
-            "name": "ContractDeployed",
-            "inputs": [
-                { "name": "address", "type": "string" }
-            ]
-        },
-        {
-            "name": "MethodExecuted",
-            "inputs": [
-                { "name": "methodName", "type": "string" },
-                { "name": "params", "type": "array" },
-                { "name": "result", "type": "any" }
-            ]
-        }
-    ]
-}
+[
+    {
+        "inputs": [],
+        "name": "initialize",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "string",
+                "name": "data",
+                "type": "string"
+            }
+        ],
+        "name": "storeData",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "user",
+                "type": "address"
+            }
+        ],
+        "name": "retrieveData",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "bytes32",
+                "name": "role",
+                "type": "bytes32"
+            },
+            {
+                "internalType": "address",
+                "name": "account",
+                "type": "address"
+            }
+        ],
+        "name": "grantRole",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "internalType": "bytes32",
+                "name": "role",
+                "type": "bytes32"
+            },
+            {
+                "internalType": "address",
+                "name": "account",
+                "type": "address"
+            }
+        ],
+        "name": "revokeRole",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "fetchExternalData",
+        "outputs": [
+            {
+                "internalType": "string",
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "user",
+                "type": "address"
+            },
+            {
+                "indexed": false,
+                "internalType": "string",
+                "name": "data",
+                "type": "string"
+            }
+        ],
+        "name": "DataStored",
+        "type": "event"
+    },
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "bytes32",
+                "name": "role",
+                "type": "bytes32"
+            },
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "account",
+                "type": "address"
+            }
+        ],
+        "name": "RoleGranted",
+        "type": "event"
+    },
+    {
+        "anonymous": false,
+        "inputs": [
+            {
+                "indexed": true,
+                "internalType": "bytes32",
+                "name": "role",
+                "type": "bytes32"
+            },
+            {
+                "indexed": true,
+                "internalType": "address",
+                "name": "account",
+                "type": "address"
+            }
+        ],
+        "name": "RoleRevoked",
+        "type": "event"
+    }
+                ]
