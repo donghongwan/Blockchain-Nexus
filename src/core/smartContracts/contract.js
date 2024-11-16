@@ -1,52 +1,55 @@
-const crypto = require('crypto');
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
 
-class SmartContract {
-    constructor(name, owner) {
-        this.name = name;
-        this.owner = owner;
-        this.state = {}; // Store contract state
-        this.events = []; // Store emitted events
-        this.contractAddress = this.generateContractAddress();
+import "@openzeppelin/contracts/access/AccessControl.sol";
+import "@openzeppelin/contracts/proxy/utils/Initializable.sol";
+import "@openzeppelin/contracts/proxy/utils/UUPSUpgradeable.sol";
+
+contract MySmartContract is AccessControl, Initializable, UUPSUpgradeable {
+    bytes32 public constant ADMIN_ROLE = keccak256("ADMIN_ROLE");
+    bytes32 public constant USER_ROLE = keccak256("USER_ROLE");
+
+    event DataStored(address indexed user, string data);
+    event RoleGranted(bytes32 indexed role, address indexed account);
+    event RoleRevoked(bytes32 indexed role, address indexed account);
+
+    mapping(address => string) private userData;
+
+    // Initialize the contract with the deployer as the admin
+    function initialize() public initializer {
+        _setupRole(ADMIN_ROLE, msg.sender);
+        _setupRole(USER_ROLE, msg.sender);
     }
 
-    generateContractAddress() {
-        // Generate a unique address for the contract based on its name and owner
-        return crypto.createHash('sha256').update(this.name + this.owner + Date.now()).digest('hex');
+    // Function to store data associated with a user
+    function storeData(string memory data) public onlyRole(USER_ROLE) {
+        userData[msg.sender] = data;
+        emit DataStored(msg.sender, data);
     }
 
-    deploy() {
-        console.log(`Deploying contract: ${this.name} at address: ${this.contractAddress}`);
-        // Logic to deploy the contract (e.g., store it in the blockchain)
-        this.emitEvent('ContractDeployed', { address: this.contractAddress });
+    // Function to retrieve data associated with a user
+    function retrieveData(address user) public view returns (string memory) {
+        return userData[user];
     }
 
-    execute(methodName, params) {
-        if (typeof this[methodName] !== 'function') {
-            throw new Error(`Method ${methodName} does not exist on contract ${this.name}`);
-        }
-        const result = this[methodName](...params);
-        this.emitEvent('MethodExecuted', { methodName, params, result });
-        return result;
+    // Function to grant roles
+    function grantRole(bytes32 role, address account) public onlyRole(ADMIN_ROLE) {
+        _grantRole(role, account);
+        emit RoleGranted(role, account);
     }
 
-    emitEvent(eventName, data) {
-        this.events.push({ eventName, data, timestamp: Date.now() });
-        console.log(`Event emitted: ${eventName}`, data);
+    // Function to revoke roles
+    function revokeRole(bytes32 role, address account) public onlyRole(ADMIN_ROLE) {
+        _revokeRole(role, account);
+        emit RoleRevoked(role, account);
     }
 
-    // Example method
-    setState(key, value) {
-        this.state[key] = value;
-        return this.state;
-    }
+    // Override required by the UUPSUpgradeable
+    function _authorizeUpgrade(address newImplementation) internal onlyRole(ADMIN_ROLE) override {}
 
-    getState(key) {
-        return this.state[key];
-    }
-
-    getEvents() {
-        return this.events;
+    // Example function to interact with an oracle (placeholder)
+    function fetchExternalData() public view returns (string memory) {
+        // Logic to interact with an oracle would go here
+        return "External data fetched";
     }
 }
-
-module.exports = SmartContract;
