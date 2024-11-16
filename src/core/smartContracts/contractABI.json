@@ -1,0 +1,47 @@
+{
+    "contractName": "SmartContract",
+    "methods": [
+        {
+            "name": "setState",
+            "inputs": [
+                { "name": "key", "type": "string" },
+                { "name": "value", "type": "string" }
+            ],
+            "outputs": [
+                { "name": "state", "type": "object" }
+            ]
+        },
+        {
+            "name": "getState",
+            "inputs": [
+                { "name": "key", "type": "string" }
+            ],
+            "outputs": [
+                { "name": "value", "type": "string" }
+            ]
+        },
+        {
+            "name": "getEvents",
+            "inputs": [],
+            "outputs": [
+                { "name": "events", "type": "array" }
+            ]
+        }
+    ],
+    "events": [
+        {
+            "name": "ContractDeployed",
+            "inputs": [
+                { "name": "address", "type": "string" }
+            ]
+        },
+        {
+            "name": "MethodExecuted",
+            "inputs": [
+                { "name": "methodName", "type": "string" },
+                { "name": "params", "type": "array" },
+                { "name": "result", "type": "any" }
+            ]
+        }
+    ]
+}
