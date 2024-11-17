@@ -1,4 +1,0 @@
-# ai/requirements.txt
-pandas
-scikit-learn
-joblib
