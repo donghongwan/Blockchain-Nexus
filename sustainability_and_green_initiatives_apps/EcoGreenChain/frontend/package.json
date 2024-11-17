@@ -1,0 +1,40 @@
+{
+  "name": "ecogreenchain-dapp",
+  "version": "1.0.0",
+  "description": "A decentralized application for managing carbon and renewable energy credits.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "blockchain",
+    "dapp",
+    "react",
+    "web3",
+    "eco",
+    "green"
+  ],
+  "author": "KOSASIH",
+  "license": "MIT",
+  "homepage": "https://ecogreenchain.com",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0",
+    "react-router-dom": "^6.0.0",
+    "web3": "^1.6.0",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0"
+  }
+}
