@@ -25,7 +25,7 @@ To get started with the Galactixer DAO, follow these steps:
 
    ```bash
    1 git clone https://github.com/KOSASIH/Blockchain-Nexus.git
-   2 cd Blockchain-Nexus
+   2 cd Blockchain-Nexus/Galactixer
    ```
 
 2. **Install dependencies**:
