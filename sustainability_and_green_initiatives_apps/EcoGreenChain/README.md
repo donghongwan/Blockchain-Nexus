@@ -22,7 +22,7 @@ EcoGreenChain is a decentralized application (DApp) for managing carbon and rene
 
    ```bash
    1 git clone https://github.com/KOSASIH/Blockchain-Nexus.git
-   2 cd Blockchain-Nexus/ecogreenchain
+   2 cd Blockchain-Nexus/EcoGreenChain
    ```
 
 2. Navigate to the frontend directory and install dependencies:
