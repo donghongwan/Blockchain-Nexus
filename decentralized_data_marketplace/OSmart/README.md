@@ -50,14 +50,14 @@ OSmart is a decentralized data marketplace that empowers users to monetize their
    2 INFURA_PROJECT_ID=your_infura_project_id
    ```
 
-3. Running the Project
-- Compile the smart contracts:
+##  Running the Project
+1. **Compile the smart contracts**:
 
    ```bash
    1 npx hardhat compile
    ```
 
-4. Deploy the contracts:
+2. **Deploy the contracts**:
 
 - You can deploy the contracts to a local network or a test network. To deploy to a local network:
 
@@ -65,13 +65,13 @@ OSmart is a decentralized data marketplace that empowers users to monetize their
    1 npx hardhat run scripts/setup_data_marketplace.js --network localhost
    ```
 
-5. To deploy to a test network (e.g., Rinkeby):
+- To deploy to a test network (e.g., Rinkeby):
 
    ```bash
    1 npx hardhat run scripts/setup_data_marketplace.js --network rinkeby
    ```
 
-6. Run tests:
+3. **Run tests**:
 
 - To run the tests for the smart contracts, use the following command:
 
@@ -79,7 +79,7 @@ OSmart is a decentralized data marketplace that empowers users to monetize their
    1 npx hardhat test
    ```
 
-7. Interacting with the Contracts
+## Interacting with the Contracts
 - You can interact with the deployed contracts using the provided scripts in the scripts directory. For example, to list data or purchase data, you can modify and run the interact_osmart.js script.
 
 ## Contributing
