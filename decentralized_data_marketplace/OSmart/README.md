@@ -32,7 +32,7 @@ OSmart is a decentralized data marketplace that empowers users to monetize their
 
    ```bash
    1 git clone https://github.com/KOSASIH/Blockchain-Nexus.git
-   2 cd Blockchain-Nexus/osmart
+   2 cd Blockchain-Nexus/OSmart
    ```
 
 2. Install the dependencies:
