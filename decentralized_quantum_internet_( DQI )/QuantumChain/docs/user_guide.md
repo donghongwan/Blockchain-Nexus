@@ -22,14 +22,14 @@ Welcome to QuantumChain! This guide will help you understand how to interact wit
    1 pip install -r requirements.txt
    ```
    
-3. Running the Node
+## Running the Node
 To start your QuantumChain node, run:
 
    ```bash
    1 python scripts/run_node.py
    ```
 
-4. Creating a Wallet
+## Creating a Wallet
 To create a new wallet, use the following command:
 
    ```bash
