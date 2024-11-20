@@ -51,6 +51,21 @@
 [![Certified Tokenization Expert](https://img.shields.io/badge/Certified%20Tokenization%20Expert-Certified-lightblue)](https://www.blockchain-council.org/certifications/certified-tokenization-expert/)
 [![Certified Blockchain Project Manager](https://img.shields.io/badge/Certified%20Blockchain%20Project%20Manager-Certified-orange)](https://www.blockchain-council.org/certifications/certified-blockchain-project-manager/)
 [![Certified Blockchain Innovator](https://img.shields.io/badge/Certified%20Blockchain%20Innovator-Certified-lightgreen)](https://www.blockchain-council.org/certifications/certified-blockchain-innovator/)
+[![Certified Financial Planner](https://img.shields.io/badge/Certified%20Financial%20Planner-Certified-blue)](https://www.cfp.net/)
+[![Chartered Financial Analyst](https://img.shields.io/badge/Chartered%20Financial%20Analyst-Certified-orange)](https://www.cfainstitute.org/)
+[![Certified Public Accountant](https://img.shields.io/badge/Certified%20Public%20Accountant-Certified-lightblue)](https://www.aicpa.org/)
+[![Financial Risk Manager](https://img.shields.io/badge/Financial%20Risk%20Manager-Certified-green)](https://www.garp.org/)
+[![Chartered Alternative Investment Analyst](https://img.shields.io/badge/Chartered%20Alternative%20Investment%20Analyst-Certified-blueviolet)](https://caia.org/)
+[![Certified Management Accountant](https://img.shields.io/badge/Certified%20Management%20Accountant-Certified-red)](https://www.imanet.org/)
+[![Certified Internal Auditor](https://img.shields.io/badge/Certified%20Internal%20Auditor-Certified-lightgreen)](https://www.theiia.org/)
+[![Certified Treasury Professional](https://img.shields.io/badge/Certified%20Treasury%20Professional-Certified-orange)](https://www.atrp.org/)
+[![Financial Modeling & Valuation Analyst](https://img.shields.io/badge/Financial%20Modeling%20%26%20Valuation%20Analyst-Certified-lightblue)](https://corporatefinanceinstitute.com/)
+[![Certified Fraud Examiner](https://img.shields.io/badge/Certified%20Fraud%20Examiner-Certified-green)](https://www.acfe.com/)
+[![Chartered Institute of Management Accountants](https://img.shields.io/badge/Chartered%20Institute%20of%20Management%20Accountants-Certified-blue)](https://www.cimaglobal.com/)
+[![Certified Financial Services Auditor](https://img.shields.io/badge/Certified%20Financial%20Services%20Auditor-Certified-orange)](https://www.theiia.org/)
+[![Certified Investment Management Analyst](https://img.shields.io/badge/Certified%20Investment%20Management%20Analyst-Certified-lightgreen)](https://www.investmentmanagementconsultantsassociation.org/)
+[![Global Association of Risk Professionals](https://img.shields.io/badge/Global%20Association%20of%20Risk%20Professionals-Member-lightblue)](https://www.garp.org/)
+[![International Association of Financial Engineers](https://img.shields.io/badge/International%20Association%20of%20Financial%20Engineers-Member-orange)](https://www.iafe.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Blockchain-Nexus">Blockchain Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
