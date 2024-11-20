@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example dApp</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Example Decentralized Application</h1>
+    <form id="transaction-form">
+        <input type="text" id="sender" placeholder="Sender" required>
+        <input type="text" id="recipient" placeholder="Recipient" required>
+        <input type="number" id="amount" placeholder="Amount" required>
+        <button type="submit">Send Transaction</button>
+    </form>
+    <div id="response"></div>
+
+    <script>
+        $('#transaction-form').on('submit', function(e) {
+            e.preventDefault();
+            const sender = $('#sender').val();
+            const recipient = $('#recipient').val();
+            const amount = $('#amount').val();
+
+            $.post('/api/example_dapp/transaction', { sender, recipient, amount }, function(data) {
+                $('#response').text(data.status + ' - Transaction ID: ' + data.transaction_id);
+            });
+        });
+    </script>
+</body>
+</html>
