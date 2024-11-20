@@ -16,6 +16,21 @@
 [![CISA Certified](https://img.shields.io/badge/CISA-Certified-lightblue)](https://www.isaca.org/credentialing/cisa)
 [![CISM Certified](https://img.shields.io/badge/CISM-Certified-lightgreen)](https://www.isaca.org/credentialing/cism)
 [![CEH Certified](https://img.shields.io/badge/CEH-Certified-red)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+[![ISO 31000 Certified](https://img.shields.io/badge/ISO%2031000-Certified-green)](https://www.iso.org/iso-31000-risk-management.html)
+[![ITIL Certified](https://img.shields.io/badge/ITIL-Certified-blue)](https://www.axelos.com/best-practice-solutions/itil)
+[![CISSP Certified](https://img.shields.io/badge/CISSP-Certified-orange)](https://www.isc2.org/Certifications/CISSP)
+[![CRISC Certified](https://img.shields.io/badge/CRISC-Certified-lightblue)](https://www.isaca.org/credentialing/crisc)
+[![ISO 20000 Certified](https://img.shields.io/badge/ISO%2020000-Certified-blue)](https://www.iso.org/iso-20000-1-it-service-management.html)
+[![FISMA Compliant](https://img.shields.io/badge/FISMA-Compliant-red)](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+[![ISO 27018 Certified](https://img.shields.io/badge/ISO%2027018-Certified-green)](https://www.iso.org/iso-27018-data-protection.html)
+[![SOC 1 Type II Certified](https://img.shields.io/badge/SOC%201%20Type%20II-Certified-blueviolet)](https://www.aicpa.org/)
+[![ISO 27701 Certified](https://img.shields.io/badge/ISO%2027701-Certified-green)](https://www.iso.org/iso-27701-privacy-information-management.html)
+[![CMMI Level 5](https://img.shields.io/badge/CMMI%20Level%205-Certified-lightgrey)](https://cmmiinstitute.com/)
+[![NIST SP 800-53 Compliant](https://img.shields.io/badge/NIST%20SP%2080053Compliant-lightyellow)](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+[![ISO 50001 Certified](https://img.shields.io/badge/ISO%2050001-Certified-blue)](https://www.iso.org/iso-50001-energy-management.html)
+[![TISAX Certified](https://img.shields.io/badge/TISAX-Certified-orange)](https://www.enx.com/en/tisax/)
+[![CSA STAR Certified](https://img.shields.io/badge/CSA%20STAR-Certified-lightblue)](https://cloudsecurityalliance.org/star/)
+[![ISO 22301 Certified](https://img.shields.io/badge/ISO%2022301-Certified-green)](https://www.iso.org/iso-22301-business-continuity.html)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Blockchain-Nexus">Blockchain Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
