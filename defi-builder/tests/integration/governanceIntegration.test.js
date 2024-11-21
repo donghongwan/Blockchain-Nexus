@@ -1,4 +1,4 @@
-// ai/tests/integration/governanceIntegration.test.js
+// tests/integration/governanceIntegration.test.js
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
