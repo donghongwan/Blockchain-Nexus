@@ -1,4 +1,4 @@
-// ai/tests/unit/Token.test.js
+// tests/unit/Token.test.js
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
