@@ -1,0 +1,17 @@
+[
+    {
+        "feature1": 1.0,
+        "feature2": 2.0,
+        "risk": 0
+    },
+    {
+        "feature1": 1.5,
+        "feature2": 2.5,
+        "risk": 1
+    },
+    {
+        "feature1": 2.0,
+        "feature2": 3.0,
+        "risk": 0
+    }
+]
