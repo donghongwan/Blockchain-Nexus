@@ -1,4 +1,4 @@
-// ai/tests/unit/Staking.test.js
+// tests/unit/Staking.test.js
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
