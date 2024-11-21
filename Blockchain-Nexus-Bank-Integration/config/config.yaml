@@ -1,0 +1,26 @@
+# config/config.yaml
+
+app:
+  name: "My High-Tech Application"
+  version: "1.0.0"
+  debug: true
+  allowed_hosts:
+    - "localhost"
+    - "127.0.0.1"
+    - "myapp.com"
+
+database:
+  type: "postgresql"
+  host: "localhost"
+  port: 5432
+  name: "my_database"
+  user: "db_user"
+  password: "db_password"  # This should be stored in secrets.yaml
+
+api:
+  base_url: "https://api.myapp.com/v1"
+  timeout: 30  # seconds
+
+features:
+  enable_feature_x: true
+  enable_feature_y: false
