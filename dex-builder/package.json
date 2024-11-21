@@ -1,0 +1,32 @@
+{
+  "name": "dex-builder",
+  "version": "1.0.0",
+  "description": "A decentralized exchange builder powered by AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test",
+    "migrate": "truffle migrate --network development",
+    "lint": "eslint .",
+    "start": "node backend/server.js",
+    "frontend": "cd frontend && npm start"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "truffle": "^5.4.0",
+    "web3": "^1.5.0",
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "@openzeppelin/contracts": "^4.3.0",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0"
+  },
+  "author": "KOSASIH",
+  "license": "MIT"
+}
