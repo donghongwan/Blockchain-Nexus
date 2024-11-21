@@ -1,4 +1,4 @@
-// ai/tests/integration/liquidityIntegration.test.js
+// tests/integration/liquidityIntegration.test.js
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
