@@ -1,4 +1,4 @@
-// ai/tests/unit/LiquidityPool.test.js
+// tests/unit/LiquidityPool.test.js
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
