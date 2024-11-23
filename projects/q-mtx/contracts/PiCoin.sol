@@ -104,20 +104,35 @@ contract PiCoin is ERC20, Ownable, Pausable {
     }
 
     // Burn function
-    function burn(uint256 _amount) external {
+    function burn(uintuint256 _amount) external {
         _burn(msg.sender, _amount);
     }
 
-    // Transfer with tax
+    // Transfer function with tax
     function _transfer(address sender, address recipient, uint256 amount) internal override {
         uint256 tax = amount.mul(transferTaxRate).div(100);
         uint256 amountAfterTax = amount.sub(tax);
+        super._transfer(sender, recipient, amountAfterTax);
         super._transfer(sender, taxRecipient, tax); // Transfer tax to recipient
-        super._transfer(sender, recipient, amountAfterTax); // Transfer remaining amount
     }
 
-    // Update transfer tax rate
-    function updateTransferTaxRate(uint256 _newRate) external onlyOwner {
+    // Adjust supply based on price
+    function adjustSupply() external {
+        PriceOracle oracle = PriceOracle(priceOracle);
+        uint256 currentPrice = oracle.getCurrentPrice();
+        if (currentPrice < targetPrice) {
+            uint256 mintAmount = totalSupply().mul(adjustmentFactor).div(100);
+            _mint(address(this), mintAmount); // Mint new tokens
+            emit SupplyAdjusted(totalSupply());
+        } else if (currentPrice > targetPrice) {
+            uint256 burnAmount = totalSupply().mul(adjustmentFactor).div(100);
+            _burn(address(this), burnAmount); // Burn tokens
+            emit SupplyAdjusted(totalSupply());
+        }
+    }
+
+    // Update tax rate
+    function updateTaxRate(uint256 _newRate) external onlyOwner {
         transferTaxRate = _newRate;
         emit TaxRateUpdated(_newRate);
     }
@@ -128,25 +143,7 @@ contract PiCoin is ERC20, Ownable, Pausable {
         emit TaxRecipientUpdated(_newRecipient);
     }
 
-    // Price management functions
-    function adjustSupply() external onlyOwner {
-        uint256 currentPrice = PriceOracle(priceOracle).getCurrentPrice(); // Price in cents
-        uint256 currentSupply = totalSupply();
-
-        if (currentPrice < targetPrice) {
-            // Increase supply
-            uint256 newSupply = currentSupply.add(currentSupply.mul(adjustmentFactor).div(100));
-            _mint(address(this), newSupply.sub(currentSupply));
-            emit SupplyAdjusted(newSupply);
-        } else if (currentPrice > targetPrice) {
-            // Decrease supply
-            uint256 newSupply = currentSupply.sub(currentSupply.mul(adjustmentFactor).div(100));
-            _burn(currentSupply.sub(newSupply));
-            emit SupplyAdjusted(newSupply);
-        }
-    }
-
-    // Pausable functions
+    // Pause and unpause contract
     function pause() external onlyOwner {
         _pause();
     }
