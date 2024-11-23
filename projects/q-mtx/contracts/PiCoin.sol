@@ -29,6 +29,11 @@ contract PiCoin is ERC20, Ownable, Pausable {
     uint256 public transferTaxRate = 5; // 5% transfer tax
     address public taxRecipient; // Address to receive tax
 
+    // Price management
+    uint256 public targetPrice = 314159; // Target price in cents ($314.159)
+    uint256 public adjustmentFactor = 5; // Factor to adjust supply (5% for example)
+    address public priceOracle; // Address of the price oracle
+
     event ProposalCreated(uint256 indexed proposalId, string description);
     event Voted(uint256 indexed proposalId, address indexed voter);
     event Staked(address indexed user, uint256 amount);
@@ -36,10 +41,12 @@ contract PiCoin is ERC20, Ownable, Pausable {
     event RewardsClaimed(address indexed user, uint256 amount);
     event TaxRateUpdated(uint256 newRate);
     event TaxRecipientUpdated(address newRecipient);
+    event SupplyAdjusted(uint256 newSupply);
 
-    constructor(address _taxRecipient) ERC20("PiCoin", "PI") {
+    constructor(address _taxRecipient, address _priceOracle) ERC20("PiCoin", "PI") {
         _mint(msg.sender, 1_000_000 * 10 ** decimals()); // Initial supply
         taxRecipient = _taxRecipient;
+        priceOracle = _priceOracle;
     }
 
     // Governance functions
@@ -119,6 +126,24 @@ contract PiCoin is ERC20, Ownable, Pausable {
     function updateTaxRecipient(address _newRecipient) external onlyOwner {
         taxRecipient = _newRecipient;
         emit TaxRecipientUpdated(_newRecipient);
+    }
+
+    // Price management functions
+    function adjustSupply() external onlyOwner {
+        uint256 currentPrice = PriceOracle(priceOracle).getCurrentPrice(); // Price in cents
+        uint256 currentSupply = totalSupply();
+
+        if (currentPrice < targetPrice) {
+            // Increase supply
+            uint256 newSupply = currentSupply.add(currentSupply.mul(adjustmentFactor).div(100));
+            _mint(address(this), newSupply.sub(currentSupply));
+            emit SupplyAdjusted(newSupply);
+        } else if (currentPrice > targetPrice) {
+            // Decrease supply
+            uint256 newSupply = currentSupply.sub(currentSupply.mul(adjustmentFactor).div(100));
+            _burn(currentSupply.sub(newSupply));
+            emit SupplyAdjusted(newSupply);
+        }
     }
 
     // Pausable functions
