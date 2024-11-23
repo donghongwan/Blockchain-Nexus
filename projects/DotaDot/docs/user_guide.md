@@ -8,7 +8,7 @@ Welcome to DotaDot! This user guide will help you navigate the platform, underst
 
 ### Creating an Account
 
-1. **Visit the DotaDot Website**: Go to [DotaDot Website](http://your-dota-dot-url.com).
+1. **Visit the DotaDot Website**: Go to [DotaDot Website](http://dotadot.com).
 2. **Sign Up**: Click on the "Sign Up" button and fill in the required information.
 3. **Verify Your Email**: Check your email for a verification link and click it to activate your account.
 
