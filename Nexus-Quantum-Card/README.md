@@ -27,6 +27,21 @@
 [![Certified Investment Management Analyst](https://img.shields.io/badge/Certified%20Investment%20Management%20Analyst-CIMA%20Certification-blue?style=for-the-badge&logo=investment&logoColor=white)](https://www.investmentsandwealth.org/)
 [![Certified Wealth Strategist](https://img.shields.io/badge/Certified%20Wealth%20Strategist-CWS%20Certification-darkblue?style=for-the-badge&logo=wealthmanagement&logoColor=white)](https://www.investmentsandwealth.org/)
 [![Certified Financial Coach](https://img.shields.io/badge/Certified%20Financial%20Coach-CFC%20Certification-green?style=for-the-badge&logo=financialplanning&logoColor=white)](https://www.financialcoach.com/)
+[![Certified Financial Educator](https://img.shields.io/badge/Certified%20Financial%20Educator-CFE%20Certification-blue?style=for-the-badge&logo=education&logoColor=white)](https://www.ncfe.org/)
+[![Certified Investment Fund Director](https://img.shields.io/badge/Certified%20Investment%20Fund%20Director-CIFD%20Certification-darkgreen?style=for-the-badge&logo=investment&logoColor=white)](https://www.cifd.org/)
+[![Certified Financial Services Auditor](https://img.shields.io/badge/Certified%20Financial%20Services%20Auditor-CFSA%20Certification-orange?style=for-the-badge&logo=finance&logoColor=white)](https://www.iia.org.uk/)
+[![Certified Credit Professional](https://img.shields.io/badge/Certified%20Credit%20Professional-CCP%20Certification-red?style=for-the-badge&logo=credit&logoColor=white)](https://www.iccp.org/)
+[![Certified Management Accountant](https://img.shields.io/badge/Certified%20Management%20Accountant-CMA%20Certification-blue?style=for-the-badge&logo=accounting&logoColor=white)](https://www.imanet.org/)
+[![Certified Internal Auditor](https://img.shields.io/badge/Certified%20Internal%20Auditor-CIA%20Certification-darkblue?style=for-the-badge&logo=audit&logoColor=white)](https://www.theiia.org/)
+[![Certified Financial Risk Manager](https://img.shields.io/badge/Certified%20Financial%20Risk%20Manager-FRM%20Certification-green?style=for-the-badge&logo=riskmanagement&logoColor=white)](https://www.garp.org/frm)
+[![Certified Data Privacy Solutions Engineer](https://img.shields.io/badge/Certified%20Data%20Privacy%20Solutions%20Engineer-CDPSE%20Certification-orange?style=for-the-badge&logo=privacy&logoColor=white)](https://www.isc2.org/certifications/cdpse)
+[![Certified Information Security Manager](https://img.shields.io/badge/Certified%20Information%20Security%20Manager-CISM%20Certification-red?style=for-the-badge&logo=security&logoColor=white)](https://www.isaca.org/credentialing/cism)
+[![Certified Blockchain Expert](https://img.shields.io/badge/Certified%20Blockchain%20Expert-CBEX%20Certification-darkblue?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.certifiedblockchainexpert.com/)
+[![Certified Digital Marketing Professional](https://img.shields.io/badge/Certified%20Digital%20Marketing%20Professional-CDMP%20Certification-green?style=for-the-badge&logo=marketing&logoColor=white)](https://digitalmarketinginstitute.com/)
+[![Certified Ethical Hacker](https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH%20Certification-blue?style=for-the-badge&logo=ethicalhacking&logoColor=white)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+[![Certified ScrumMaster](https://img.shields.io/badge/Certified%20ScrumMaster-CSM%20Certification-orange?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrumalliance.org/)
+[![Certified Agile Leadership](https://img.shields.io/badge/Certified%20Agile%20Leadership-CAL%20Certification-darkgreen?style=for-the-badge&logo=agile&logoColor=white)](https://www.scrumalliance.org/)
+[![Certified Six Sigma Green Belt](https://img.shields.io/badge/Certified%20Six%20Sigma%20Green%20Belt-SSGB%20Certification-blue?style=for-the-badge&logo=sixsigma&logoColor=white)](https://www.asq.org/cert/six-sigma-green-belt)
 
 # Nexus Quantum Card
 
