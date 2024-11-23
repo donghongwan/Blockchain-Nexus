@@ -8,7 +8,7 @@ The DotaDot API provides a set of endpoints for interacting with the platform's 
 
 All API requests are made to the following base URL:
 
-[http://api.dotadot-url.com/v1](http://api.dotadot.com/v1) 
+[http://api.dotadot.com/v1](http://api.dotadot.com/v1) 
 
 
 ## Authentication
