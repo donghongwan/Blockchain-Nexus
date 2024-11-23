@@ -2,3 +2,21 @@ requests
 pycryptodome
 Flask
 paho-mqtt
+
+# Quantum Computing Libraries
+qiskit==0.39.0                # Main Qiskit library for quantum computing
+qiskit-aer==0.12.0            # High-performance simulator for quantum circuits
+qiskit-ibm-provider==0.14.0   # Provider for accessing IBM Quantum devices
+qiskit-visualization==0.2.0   # Visualization tools for Qiskit
+
+# Quantum Machine Learning Libraries
+pennylane==0.24.0              # A library for quantum machine learning
+pennylane-qiskit==0.24.0       # PennyLane plugin for Qiskit
+
+# General Libraries
+numpy==1.23.5                  # Fundamental package for numerical computations
+pandas==1.5.3                  # Data manipulation and analysis
+matplotlib==3.6.2              # Plotting library for visualizations
+
+# Testing Libraries
+pytest==7.2.0                  # Testing framework for Python
