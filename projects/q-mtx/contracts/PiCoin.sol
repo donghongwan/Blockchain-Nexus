@@ -25,14 +25,21 @@ contract PiCoin is ERC20, Ownable, Pausable {
     mapping(address => uint256) public lastClaimed;
     uint256 public rewardRate = 100; // Reward rate per block
 
+    // Transfer tax
+    uint256 public transferTaxRate = 5; // 5% transfer tax
+    address public taxRecipient; // Address to receive tax
+
     event ProposalCreated(uint256 indexed proposalId, string description);
     event Voted(uint256 indexed proposalId, address indexed voter);
     event Staked(address indexed user, uint256 amount);
     event Unstaked(address indexed user, uint256 amount);
     event RewardsClaimed(address indexed user, uint256 amount);
+    event TaxRateUpdated(uint256 newRate);
+    event TaxRecipientUpdated(address newRecipient);
 
-    constructor() ERC20("PiCoin", "PI") {
+    constructor(address _taxRecipient) ERC20("PiCoin", "PI") {
         _mint(msg.sender, 1_000_000 * 10 ** decimals()); // Initial supply
+        taxRecipient = _taxRecipient;
     }
 
     // Governance functions
@@ -87,6 +94,31 @@ contract PiCoin is ERC20, Ownable, Pausable {
         uint256 staked = stakedAmount[_user];
         uint256 blocksStaked = block.number.sub(lastClaimed[_user]);
         return staked.mul(rewardRate).mul(blocksStaked);
+    }
+
+    // Burn function
+    function burn(uint256 _amount) external {
+        _burn(msg.sender, _amount);
+    }
+
+    // Transfer with tax
+    function _transfer(address sender, address recipient, uint256 amount) internal override {
+        uint256 tax = amount.mul(transferTaxRate).div(100);
+        uint256 amountAfterTax = amount.sub(tax);
+        super._transfer(sender, taxRecipient, tax); // Transfer tax to recipient
+        super._transfer(sender, recipient, amountAfterTax); // Transfer remaining amount
+    }
+
+    // Update transfer tax rate
+    function updateTransferTaxRate(uint256 _newRate) external onlyOwner {
+        transferTaxRate = _newRate;
+        emit TaxRateUpdated(_newRate);
+    }
+
+    // Update tax recipient
+    function updateTaxRecipient(address _newRecipient) external onlyOwner {
+        taxRecipient = _newRecipient;
+        emit TaxRecipientUpdated(_newRecipient);
     }
 
     // Pausable functions
