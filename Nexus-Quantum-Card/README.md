@@ -13,6 +13,20 @@
 [![Fintech Australia Certified](https://img.shields.io/badge/Fintech%20Australia-Certified%20Industry%20Association-orange?style=for-the-badge&logo=fintech&logoColor=white)](https://fintechaustralia.org.au/)
 [![Singapore Fintech Association Certified](https://img.shields.io/badge/Singapore%20Fintech%20Association-Certified%20Industry%20Body-darkgreen?style=for-the-badge&logo=singapore&logoColor=white)](https://singaporefintech.org/)
 [![Blockchain Association Certified](https://img.shields.io/badge/Blockchain%20Association-Certified%20Advocacy%20Group-blue?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.blockchainassociation.org/)
+[![Certified Financial Planner](https://img.shields.io/badge/Certified%20Financial%20Planner-CFP%20Certification-blue?style=for-the-badge&logo=financialplanning&logoColor=white)](https://www.cfp.net/)
+[![Certified Public Accountant](https://img.shields.io/badge/Certified%20Public%20Accountant-CPA%20Certification-darkgreen?style=for-the-badge&logo=accounting&logoColor=white)](https://www.aicpa.org/)
+[![Certified Information Systems Auditor](https://img.shields.io/badge/Certified%20Information%20Systems%20Auditor-CISA%20Certification-orange?style=for-the-badge&logo=information&logoColor=white)](https://www.isaca.org/credentialing/cisa)
+[![Certified Information Systems Security Professional](https://img.shields.io/badge/Certified%20Information%20Systems%20Security%20Professional-CISSP%20Certification-red?style=for-the-badge&logo=security&logoColor=white)](https://www.isc2.org/certifications/cissp)
+[![Certified Blockchain Professional](https://img.shields.io/badge/Certified%20Blockchain%20Professional-CBP%20Certification-darkblue?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.certifiedblockchainprofessional.com/)
+[![Certified Risk Management Professional](https://img.shields.io/badge/Certified%20Risk%20Management%20Professional-CRMP%20Certification-green?style=for-the-badge&logo=riskmanagement&logoColor=white)](https://www.rims.org/)
+[![Certified Fraud Examiner](https://img.shields.io/badge/Certified%20Fraud%20Examiner-CFE%20Certification-purple?style=for-the-badge&logo=fraud&logoColor=white)](https://www.acfe.com/cfe-credential.aspx)
+[![Certified Financial Analyst](https://img.shields.io/badge/Certified%20Financial%20Analyst-CFA%20Certification-blue?style=for-the-badge&logo=cfa&logoColor=white)](https://www.cfainstitute.org/)
+[![Certified Treasury Professional](https://img.shields.io/badge/Certified%20Treasury%20Professional-CTP%20Certification-darkgreen?style=for-the-badge&logo=finance&logoColor=white)](https://www.afponline.org/)
+[![Certified Digital Asset Advisor](https://img.shields.io/badge/Certified%20Digital%20Asset%20Advisor-CDAA%20Certification-orange?style=for-the-badge&logo=crypto&logoColor=white)](https://www.digitalassetadvisor.com/)
+[![Certified Financial Risk Manager](https://img.shields.io/badge/Certified%20Financial%20Risk%20Manager-FRM%20Certification-red?style=for-the-badge&logo=riskmanagement&logoColor=white)](https://www.garp.org/frm)
+[![Certified Investment Management Analyst](https://img.shields.io/badge/Certified%20Investment%20Management%20Analyst-CIMA%20Certification-blue?style=for-the-badge&logo=investment&logoColor=white)](https://www.investmentsandwealth.org/)
+[![Certified Wealth Strategist](https://img.shields.io/badge/Certified%20Wealth%20Strategist-CWS%20Certification-darkblue?style=for-the-badge&logo=wealthmanagement&logoColor=white)](https://www.investmentsandwealth.org/)
+[![Certified Financial Coach](https://img.shields.io/badge/Certified%20Financial%20Coach-CFC%20Certification-green?style=for-the-badge&logo=financialplanning&logoColor=white)](https://www.financialcoach.com/)
 
 # Nexus Quantum Card
 
