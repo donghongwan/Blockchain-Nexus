@@ -74,6 +74,8 @@
 [![Certified Blockchain for Business](https://img.shields.io/badge/Certified%20Blockchain%20for%20Business-CBB%20Certification-red?style=for-the-badge&logo=business&logoColor=white)](https://www.blockchain-council.org/certifications/certified-blockchain-for-business/)
 [![Certified Blockchain Project Manager](https://img.shields.io/badge/Certified%20Blockchain%20Project%20Manager-CBPM%20Certification-darkblue?style=for-the-badge&logo=projectmanagement&logoColor=white)](https://www.blockchain-council.org/certifications/certified-blockchain-project-manager/)
 
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Blockchain-Nexus">Quantum Nexus Card</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
 # Nexus Quantum Card
 
 The Nexus Quantum Card is a cutting-edge security solution that leverages quantum encryption, biometric authentication, and decentralized identity management to provide a secure and user-friendly experience.
