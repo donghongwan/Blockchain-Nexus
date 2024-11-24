@@ -93,6 +93,22 @@
 [![Celo](https://img.shields.io/badge/Celo-Certified%20Member-green?style=for-the-badge&logo=celo&logoColor=white)](https://celo.org/)
 [![Stacks](https://img.shields.io/badge/Stacks-Certified%20Member-blue?style=for-the-badge&logo=stacks&logoColor=white)](https://www.stacks.co/)
 [![Fantom](https://img.shields.io/badge/Fantom-Certified%20Member-blue?style=for-the-badge&logo=fantom&logoColor=white)](https://fantom.foundation/)
+[![Zcash](https://img.shields.io/badge/Zcash-Certified%20Member-orange?style=for-the-badge&logo=zcash&logoColor=white)](https://z.cash/)
+[![Dash](https://img.shields.io/badge/Dash-Certified%20Member-blue?style=for-the-badge&logo=dash&logoColor=white)](https://www.dash.org/)
+[![Basic Attention Token](https://img.shields.io/badge/Basic%20Attention%20Token-Certified%20Member-green?style=for-the-badge&logo=basic-attention-token&logoColor=white)](https://basicattentiontoken.org/)
+[![Nexo](https://img.shields.io/badge/Nexo-Certified%20Member-blue?style=for-the-badge&logo=nexo&logoColor=white)](https://nexo.io/)
+[![Synthetix](https://img.shields.io/badge/Synthetix-Certified%20Member-purple?style=for-the-badge&logo=synthetix&logoColor=white)](https://synthetix.io/)
+[![Yearn Finance](https://img.shields.io/badge/Yearn%20Finance-Certified%20Member-yellow?style=for-the-badge&logo=yearn&logoColor=white)](https://yearn.finance/)
+[![Aave](https://img.shields.io/badge/Aave-Certified%20Member-blue?style=for-the-badge&logo=aave&logoColor=white)](https://aave.com/)
+[![Compound](https://img.shields.io/badge/Compound-Certified%20Member-green?style=for-the-badge&logo=compound&logoColor=white)](https://compound.finance/)
+[![Uniswap](https://img.shields.io/badge/Uniswap-Certified%20Member-purple?style=for-the-badge&logo=uniswap&logoColor=white)](https://uniswap.org/)
+[![PancakeSwap](https://img.shields.io/badge/PancakeSwap-Certified%20Member-yellow?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/)
+[![1inch](https://img.shields.io/badge/1inch-Certified%20Member-blue?style=for-the-badge&logo=1inch&logoColor=white)](https://1inch.io/)
+[![Balancer](https://img.shields.io/badge/Balancer-Certified%20Member-green?style=for-the-badge&logo=balancer&logoColor=white)](https://balancer.finance/)
+[![Curve Finance](https://img.shields.io/badge/Curve%20Finance-Certified%20Member-blue?style=for-the-badge&logo=curve&logoColor=white)](https://curve.fi/)
+[![SushiSwap](https://img.shields.io/badge/SushiSwap-Certified%20Member-purple?style=for-the-badge&logo=sushi&logoColor=white)](https://sushi.com/)
+[![Terra](https://img.shields.io/badge/Terra-Certified%20Member-green?style=for-the-badge&logo=terra&logoColor=white)](https://terra.money/)
+[![Frax Finance](https://img.shields.io/badge/Frax%20Finance-Certified%20Member-blue?style=for-the-badge&logo=frax&logoColor=white)](https://frax.finance/)
 
 # Q-MTX Blockchain Project
 
