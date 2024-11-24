@@ -1,3 +1,8 @@
+[![ISO 20022 Certified](https://img.shields.io/badge/ISO%2020022-Certified-brightgreen)](https://www.iso.org/iso-20022.html)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-brightgreen)](https://www.iso.org/iso-27001-information-security.html)
+[![PCI DSS Compliant](https://img.shields.io/badge/PCI%20DSS%20Compliant-Certified-brightgreen)](https://www.pcisecuritystandards.org/)
+[![FINRA Compliance](https://img.shields.io/badge/FINRA%20Compliance-Certified-brightgreen)](https://www.finra.org/)
+[![FATCA Compliant](https://img.shields.io/badge/FATCA%20Compliant-Certified-brightgreen)](https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca)
 
 # Q-MTX Blockchain Project
 
