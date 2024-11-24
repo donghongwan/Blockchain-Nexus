@@ -1,0 +1,15 @@
+{
+    "baseUrl": "https://api.q-mtx.com",
+    "endpoints": {
+        "getUser ": "/users/{id}",
+        "createUser ": "/users",
+        "updateUser ": "/users/{id}",
+        "deleteUser ": "/users/{id}",
+        "getMarketData": "/market/data",
+        "createOrder": "/orders",
+        "getOrder": "/orders/{id}",
+        "executeQuantumTransaction": "/transactions/quantum"
+    },
+    "timeout": 10000,
+    "retryAttempts": 5
+}
