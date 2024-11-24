@@ -8,12 +8,21 @@
 [![CFA Institute](https://img.shields.io/badge/CFA%20Institute-Certified-blue)](https://www.cfainstitute.org/)
 [![ACAMS Certified](https://img.shields.io/badge/ACAMS-Certified-brightgreen)](https://www.acams.org/)
 [![AICPA Certified](https://img.shields.io/badge/AICPA-Certified-brightgreen)](https://www.aicpa.org/)
-
 [![ISO 20022 Certified](https://img.shields.io/badge/ISO%2020022-Certified-brightgreen)](https://www.iso.org/iso-20022.html)
 [![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-brightgreen)](https://www.iso.org/iso-27001-information-security.html)
 [![PCI DSS Compliant](https://img.shields.io/badge/PCI%20DSS%20Compliant-Certified-brightgreen)](https://www.pcisecuritystandards.org/)
 [![FINRA Compliance](https://img.shields.io/badge/FINRA%20Compliance-Certified-brightgreen)](https://www.finra.org/)
 [![FATCA Compliant](https://img.shields.io/badge/FATCA%20Compliant-Certified-brightgreen)](https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca)
+[![Financial Action Task Force](https://img.shields.io/badge/FATF-Member-brightgreen)](https://www.fatf-gafi.org/)
+[![International Finance Corporation](https://img.shields.io/badge/IFC-Member-brightgreen)](https://www.ifc.org/)
+[![European Central Bank](https://img.shields.io/badge/ECB-Member-brightgreen)](https://www.ecb.europa.eu/)
+[![Bank for International Settlements](https://img.shields.io/badge/BIS-Member-brightgreen)](https://www.bis.org/)
+[![International Accounting Standards Board](https://img.shields.io/badge/IASB-Certified-brightgreen)](https://www.ifrs.org/)
+[![Chartered Institute of Management Accountants](https://img.shields.io/badge/CIMA-Certified-blue)](https://www.cimaglobal.com/)
+[![Institute of Management Accountants](https://img.shields.io/badge/IMA-Certified-blue)](https://www.imanet.org/)
+[![Global Reporting Initiative](https://img.shields.io/badge/GRI-Certified-blue)](https://www.globalreporting.org/)
+[![Financial Industry Regulatory Authority](https://img.shields.io/badge/FINRA-Certified-brightgreen)](https://www.finra.org/)
+[![Institute of Risk Management](https://img.shields.io/badge/IRM-Certified-blue)](https://www.theirm.org/)
 
 # Q-MTX Blockchain Project
 
