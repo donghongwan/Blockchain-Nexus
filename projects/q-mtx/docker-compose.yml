@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  blockchain:
+    image: trufflesuite/ganache-cli:latest
+    ports:
+      - "7545:8545"
+    networks:
+      - blockchain-network
+    command: --host 0.0.0.0 --port 8545 --accounts 10 --defaultBalanceEther 1000 --gasLimit 8000000
+
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    depends_on:
+      - blockchain
+    environment:
+      - NODE_ENV=development
+      - INFURA_KEY=${INFURA_KEY}
+      - MNEMONIC=${MNEMONIC}
+    networks:
+      - blockchain-network
+
+networks:
+  blockchain-network:
+    driver: bridge
