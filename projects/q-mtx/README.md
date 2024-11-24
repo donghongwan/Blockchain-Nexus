@@ -32,6 +32,16 @@
 [![Global Reporting Initiative](https://img.shields.io/badge/GRI-Certified-blue)](https://www.globalreporting.org/)
 [![Financial Industry Regulatory Authority](https://img.shields.io/badge/FINRA-Certified-brightgreen)](https://www.finra.org/)
 [![Institute of Risk Management](https://img.shields.io/badge/IRM-Certified-blue)](https://www.theirm.org/)
+[![Financial Services Regulatory Authority](https://img.shields.io/badge/FSRA-Member-lightcoral)](https://www.fsra.gov.ae/)
+[![Institute of Internal Auditors](https://img.shields.io/badge/IIA-Certified-lightseagreen)](https://www.theiia.org/)
+[![Chartered Institute for Securities & Investment](https://img.shields.io/badge/CISI-Certified-skyblue)](https://www.cisi.org/)
+[![Global Association of Risk Professionals](https://img.shields.io/badge/GARP-Certified-salmon)](https://www.garp.org/)
+[![American Institute of CPAs](https://img.shields.io/badge/AICPA-Certified-lightgoldenrodyellow)](https://www.aicpa.org/)
+[![Institute of Financial Planning](https://img.shields.io/badge/IFP-Certified-lightpink)](https://www.ifp.org.uk/)
+[![Financial Planning Standards Board](https://img.shields.io/badge/FPSB-Certified-lightsteelblue)](https://www.fpsb.org/)
+[![International Financial Reporting Standards](https://img.shields.io/badge/IFRS-Compliant-lightyellow)](https://www.ifrs.org/)
+[![Chartered Institute of Bankers](https://img.shields.io/badge/CIB-Certified-lightpurple)](https://www.cib.org.uk/)
+[![Institute of Financial Services](https://img.shields.io/badge/IFS-Certified-lightorange)](https://www.ifslearning.ac.uk/)
 
 # Q-MTX Blockchain Project
 
