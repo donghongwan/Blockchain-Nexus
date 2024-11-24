@@ -109,6 +109,22 @@
 [![SushiSwap](https://img.shields.io/badge/SushiSwap-Certified%20Member-purple?style=for-the-badge&logo=sushi&logoColor=white)](https://sushi.com/)
 [![Terra](https://img.shields.io/badge/Terra-Certified%20Member-green?style=for-the-badge&logo=terra&logoColor=white)](https://terra.money/)
 [![Frax Finance](https://img.shields.io/badge/Frax%20Finance-Certified%20Member-blue?style=for-the-badge&logo=frax&logoColor=white)](https://frax.finance/)
+[![Arweave](https://img.shields.io/badge/Arweave-Certified%20Member-blue?style=for-the-badge&logo=arweave&logoColor=white)](https://www.arweave.org/)
+[![Filecoin](https://img.shields.io/badge/Filecoin-Certified%20Member-green?style=for-the-badge&logo=filecoin&logoColor=white)](https://filecoin.io/)
+[![The Graph](https://img.shields.io/badge/The%20Graph-Certified%20Member-purple?style=for-the-badge&logo=thegraph&logoColor=white)](https://thegraph.com/)
+[![Ocean Protocol](https://img.shields.io/badge/Ocean%20Protocol-Certified%20Member-blue?style=for-the-badge&logo=ocean&logoColor=white)](https://oceanprotocol.com/)
+[![Chiliz](https://img.shields.io/badge/Chiliz-Certified%20Member-green?style=for-the-badge&logo=chiliz&logoColor=white)](https://chiliz.com/)
+[![Enjin](https://img.shields.io/badge/Enjin-Certified%20Member-blue?style=for-the-badge&logo=enjin&logoColor=white)](https://enjin.io/)
+[![Decentraland](https://img.shields.io/badge/Decentraland-Certified%20Member-green?style=for-the-badge&logo=decentraland&logoColor=white)](https://decentraland.org/)
+[![Sandbox](https://img.shields.io/badge/Sandbox-Certified%20Member-blue?style=for-the-badge&logo=sandbox&logoColor=white)](https://sandbox.game/)
+[![Theta Network](https://img.shields.io/badge/Theta%20Network-Certified%20Member-purple?style=for-the-badge&logo=theta&logoColor=white)](https://www.thetatoken.org/)
+[![Holochain](https://img.shields.io/badge/Holochain-Certified%20Member-green?style=for-the-badge&logo=holochain&logoColor=white)](https://holochain.org/)
+[![Civic](https://img.shields.io/badge/Civic-Certified%20Member-blue?style=for-the-badge&logo=civic&logoColor=white)](https://www.civic.com/)
+[![Basic Attention Token](https://img.shields.io/badge/Basic%20Attention%20Token-Certified%20Member-orange?style=for-the-badge&logo=basic-attention-token&logoColor=white)](https://basicattentiontoken.org/)
+[![Nervos Network](https://img.shields.io/badge/Nervos%20Network-Certified%20Member-red?style=for-the-badge&logo=nervos&logoColor=white)](https://www.nervos.org/)
+[![Zilliqa](https://img.shields.io/badge/Zilliqa-Certified%20Member-blue?style=for-the-badge&logo=zilliqa&logoColor=white)](https://zilliqa.com/)
+[![Stacks](https://img.shields.io/badge/Stacks-Certified%20Member-green?style=for-the-badge&logo=stacks&logoColor=white)](https://www.stacks.co/)
+[![Kava](https://img.shields.io/badge/Kava-Certified%20Member-blue?style=for-the-badge&logo=kava&logoColor=white)](https://www.kava.io/)
 
 # Q-MTX Blockchain Project
 
