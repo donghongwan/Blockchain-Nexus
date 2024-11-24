@@ -1,0 +1,29 @@
+{
+    "appName": "Q-MTX",
+    "version": "1.0.0",
+    "port": 4000,
+    "logLevel": "info",
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "username": "qmtx_user",
+        "password": "qmtx_password",
+        "database": "qmtx_db"
+    },
+    "security": {
+        "jwtSecret": "your_jwt_secret_key",
+        "tokenExpiration": "1h",
+        "encryptionAlgorithm": "AES-256-CBC",
+        "quantumKeyDistribution": true
+    },
+    "features": {
+        "enableQuantumTrading": true,
+        "enableMultiTransaction": true,
+        "enableRealTimeAnalytics": true
+    },
+    "quantumSettings": {
+        "quantumNetwork": "https://quantum-network.com",
+        "maxTransactionSize": 1024,
+        "transactionTimeout": 30000
+    }
+}
