@@ -52,6 +52,17 @@
 [![Certified Blockchain Architect](https://img.shields.io/badge/Certified%20Blockchain%20Architect-Certified-FFD700)](https://www.blockchain-council.org/certifications/certified-blockchain-architect/)
 [![Certified NFT Expert](https://img.shields.io/badge/Certified%20NFT%20Expert-Certified-8A2BE2)](https://www.blockchain-council.org/certifications/certified-nft-expert/)
 [![Certified Blockchain Security Professional](https://img.shields.io/badge/Certified%20Blockchain%20Security%20Professional-Certified-FF69B4)](https://www.blockchain-council.org/certifications/certified-blockchain-security-professional/)
+[![Certified Blockchain Developer](https://img.shields.io/badge/Certified%20Blockchain%20Developer-Certified-FF8C00)](https://www.blockchain-council.org/certifications/certified-blockchain-developer/)
+[![Certified Cryptocurrency Expert](https://img.shields.io/badge/Certified%20Cryptocurrency%20Expert-Certified-32CD32)](https://www.cryptocurrencycertification.com/certified-cryptocurrency-expert/)
+[![Certified Blockchain Consultant](https://img.shields.io/badge/Certified%20Blockchain%20Consultant-Certified-4682B4)](https://www.blockchain-council.org/certifications/certified-blockchain-consultant/)
+[![Certified Blockchain Project Manager](https://img.shields.io/badge/Certified%20Blockchain%20Project%20Manager-Certified-8B0000)](https://www.blockchain-council.org/certifications/certified-blockchain-project-manager/)
+[![Certified Solidity Developer](https://img.shields.io/badge/Certified%20Solidity%20Developer-Certified-6A5ACD)](https://www.blockchain-council.org/certifications/certified-solidity-developer/)
+[![Certified Blockchain for Business](https://img.shields.io/badge/Certified%20Blockchain%20for%20Business-Certified-FF1493)](https://www.blockchain-council.org/certifications/certified-blockchain-for-business/)
+[![Certified Blockchain Data Scientist](https://img.shields.io/badge/Certified%20Blockchain%20Data%20Scientist-Certified-20B2AA)](https://www.blockchain-council.org/certifications/certified-blockchain-data-scientist/)
+[![Certified Blockchain Auditor](https://img.shields.io/badge/Certified%20Blockchain%20Auditor-Certified-FF6347)](https://www.blockchain-council.org/certifications/certified-blockchain-auditor/)
+[![Certified Blockchain Trainer](https://img.shields.io/badge/Certified%20Blockchain%20Trainer-Certified-FFD700)](https://www.blockchain-council.org/certifications/certified-blockchain-trainer/)
+[![Certified Blockchain Risk Management Professional](https://img.shields.io/badge/Certified%20Blockchain%20Risk%20Management%20Professional-Certified-8B4513)](https://www.blockchain-council.org/certifications/certified-blockchain-risk-management-professional/)
+
 # Q-MTX Blockchain Project
 
 ## Overview
