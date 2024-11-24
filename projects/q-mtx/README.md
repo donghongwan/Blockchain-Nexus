@@ -125,6 +125,22 @@
 [![Zilliqa](https://img.shields.io/badge/Zilliqa-Certified%20Member-blue?style=for-the-badge&logo=zilliqa&logoColor=white)](https://zilliqa.com/)
 [![Stacks](https://img.shields.io/badge/Stacks-Certified%20Member-green?style=for-the-badge&logo=stacks&logoColor=white)](https://www.stacks.co/)
 [![Kava](https://img.shields.io/badge/Kava-Certified%20Member-blue?style=for-the-badge&logo=kava&logoColor=white)](https://www.kava.io/)
+[![Algorand](https://img.shields.io/badge/Algorand-Certified%20Member-green?style=for-the-badge&logo=algorand&logoColor=white)](https://www.algorand.com/)
+[![Hedera](https://img.shields.io/badge/Hedera-Certified%20Member-blue?style=for-the-badge&logo=hedera&logoColor=white)](https://hedera.com/)
+[![Kusama](https://img.shields.io/badge/Kusama-Certified%20Member-yellow?style=for-the-badge&logo=kusama&logoColor=white)](https://kusama.network/)
+[![Polkadot](https://img.shields.io/badge/Polkadot-Certified%20Member-blue?style=for-the-badge&logo=polkadot&logoColor=white)](https://polkadot.network/)
+[![Rari Capital](https://img.shields.io/badge/Rari%20Capital-Certified%20Member-purple?style=for-the-badge&logo=rari&logoColor=white)](https://rari.capital/)
+[![Badger DAO](https://img.shields.io/badge/Badger%20DAO-Certified%20Member-green?style=for-the-badge&logo=badger&logoColor=white)](https://badger.finance/)
+[![Keep Network](https://img.shields.io/badge/Keep%20Network-Certified%20Member-blue?style=for-the-badge&logo=keep&logoColor=white)](https://keep.network/)
+[![Ren](https://img.shields.io/badge/Ren-Certified%20Member-green?style=for-the-badge&logo=ren&logoColor=white)](https://renproject.io/)
+[![Origin Protocol](https://img.shields.io/badge/Origin%20Protocol-Certified%20Member-blue?style=for-the-badge&logo=origin&logoColor=white)](https://originprotocol.com/)
+[![Celo Dollar](https://img.shields.io/badge/Celo%20Dollar-Certified%20Member-green?style=for-the-badge&logo=celo&logoColor=white)](https://celo.org/)
+[![Matic Network](https://img.shields.io/badge/Matic%20Network-Certified%20Member-blue?style=for-the-badge&logo=matic&logoColor=white)](https://matic.network/)
+[![Fantom](https://img.shields.io/badge/Fantom-Certified%20Member-green?style=for-the-badge&logo=fantom&logoColor=white)](https://fantom.foundation/)
+[![NKN](https://img.shields.io/badge/NKN-Certified%20Member-blue?style=for-the-badge&logo=nkn&logoColor=white)](https://nkn.org/)
+[![Render Network](https://img.shields.io/badge/Render%20Network-Certified%20Member-purple?style=for-the-badge&logo=render&logoColor=white)](https://render.network/)
+[![Injective Protocol](https://img.shields.io/badge/Injective%20Protocol-Certified%20Member-green?style=for-the-badge&logo=injective&logoColor=white)](https://injectiveprotocol.com/)
+[![Celo](https://img.shields.io/badge/Celo-Certified%20Member-blue?style=for-the-badge&logo=celo&logoColor=white)](https://celo.org/)
 
 # Q-MTX Blockchain Project
 
