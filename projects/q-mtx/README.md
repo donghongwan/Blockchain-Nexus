@@ -1,3 +1,8 @@
+![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-brightgreen)
+![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001-Certified-brightgreen)
+![Certified Blockchain Professional](https://img.shields.io/badge/IEEE%20Certified%20Blockchain%20Professional-Certified-brightgreen)
+![FINRA Compliance](https://img.shields.io/badge/FINRA%20Compliance-Pending-orange)
+
 # Q-MTX Blockchain Project
 
 ## Overview
