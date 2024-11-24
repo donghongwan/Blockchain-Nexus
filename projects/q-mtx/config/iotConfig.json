@@ -1,0 +1,40 @@
+{
+    "iotDevices": [
+        {
+            "deviceId": "quantum_sensor_001",
+            "deviceType": "quantum_sensor",
+            "protocol": "MQTT",
+            "connection": {
+                "host": "mqtt.quantum-sensor.com",
+                "port": 1883,
+                "username": "mqtt_user",
+                "password": "mqtt_password"
+            },
+            "settings": {
+                "reportingInterval": 30000,
+                "dataFormat": "JSON",
+                "threshold": {
+                    "min": 0,
+                    "max": 100
+                }
+            }
+        },
+        {
+            "deviceId": "market_data_sensor_002",
+            "deviceType": "market_data_sensor",
+            "protocol": "HTTP",
+            "connection": {
+                "url": "http://api.marketdata.com",
+                "apiKey": "market_data_api_key"
+            },
+            "settings": {
+                "reportingInterval": 60000,
+                "dataFormat": "XML",
+                "threshold": {
+                    "min": 0,
+                    "max": 1000
+                }
+            }
+        }
+    ]
+}
