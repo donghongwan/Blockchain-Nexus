@@ -42,7 +42,16 @@
 [![International Financial Reporting Standards](https://img.shields.io/badge/IFRS-Compliant-lightyellow)](https://www.ifrs.org/)
 [![Chartered Institute of Bankers](https://img.shields.io/badge/CIB-Certified-lightpurple)](https://www.cib.org.uk/)
 [![Institute of Financial Services](https://img.shields.io/badge/IFS-Certified-lightorange)](https://www.ifslearning.ac.uk/)
-
+[![Certified Blockchain Professional](https://img.shields.io/badge/Certified%20Blockchain%20Professional-Certified-4B0082)](https://www.blockchaincouncil.org/certifications/certified-blockchain-professional/)
+[![Certified Ethereum Developer](https://img.shields.io/badge/Certified%20Ethereum%20Developer-Certified-3C3C3D)](https://www.blockchain-council.org/certifications/certified-ethereum-developer/)
+[![Certified Hyperledger Developer](https://img.shields.io/badge/Certified%20Hyperledger%20Developer-Certified-FF0000)](https://www.hyperledger.org/learn/certification)
+[![Certified Blockchain Expert](https://img.shields.io/badge/Certified%20Blockchain%20Expert-Certified-008000)](https://www.blockchain-council.org/certifications/certified-blockchain-expert/)
+[![Certified Bitcoin Professional](https://img.shields.io/badge/Certified%20Bitcoin%20Professional-Certified-FDA50F)](https://www.cryptocurrencycertification.com/certified-bitcoin-professional/)
+[![Certified DeFi Expert](https://img.shields.io/badge/Certified%20DeFi%20Expert-Certified-FF4500)](https://www.blockchain-council.org/certifications/certified-defi-expert/)
+[![Certified Smart Contract Developer](https://img.shields.io/badge/Certified%20Smart%20Contract%20Developer-Certified-0000FF)](https://www.blockchain-council.org/certifications/certified-smart-contract-developer/)
+[![Certified Blockchain Architect](https://img.shields.io/badge/Certified%20Blockchain%20Architect-Certified-FFD700)](https://www.blockchain-council.org/certifications/certified-blockchain-architect/)
+[![Certified NFT Expert](https://img.shields.io/badge/Certified%20NFT%20Expert-Certified-8A2BE2)](https://www.blockchain-council.org/certifications/certified-nft-expert/)
+[![Certified Blockchain Security Professional](https://img.shields.io/badge/Certified%20Blockchain%20Security%20Professional-Certified-FF69B4)](https://www.blockchain-council.org/certifications/certified-blockchain-security-professional/)
 # Q-MTX Blockchain Project
 
 ## Overview
