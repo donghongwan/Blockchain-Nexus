@@ -10,7 +10,6 @@
 [![World Bank Education](https://img.shields.io/badge/World%20Bank%20Education-Education%20Initiatives-lightyellow)](https://www.worldbank.org/en/topic/education)
 [![World Bank Infrastructure](https://img.shields.io/badge/World%20Bank%20Infrastructure-Infrastructure%20Projects-orange)](https://www.worldbank.org/en/topic/infrastructure)
 [![World Bank Poverty Reduction](https://img.shields.io/badge/World%20Bank%20Poverty%20Reduction-Poverty%20Reduction-blueviolet)](https://www.worldbank.org/en/topic/poverty)
-You can copy and 
 [![International Finance Corporation](https://img.shields.io/badge/IFC-Investment%20Partner-brightgreen)](https://www.ifc.org/)
 [![Multilateral Investment Guarantee Agency](https://img.shields.io/badge/MIGA-Investment%20Guarantee-brightgreen)](https://www.miga.org/)
 [![World Bank Climate Change](https://img.shields.io/badge/World%20Bank%20Climate%20Change-Climate%20Action-blue)](https://www.worldbank.org/en/topic/climatechange)
