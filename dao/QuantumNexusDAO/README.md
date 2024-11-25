@@ -1,3 +1,14 @@
+[![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-Quantum%20Certified-4B8BBE?style=flat&logo=quantum&logoColor=white)](https://quantum-computing.ibm.com/)
+[![Ethereum Certified Developer](https://img.shields.io/badge/Ethereum-Certified%20Developer-3C3C3D?style=flat&logo=ethereum&logoColor=white)](https://ethereum.org/en/developers/docs/)
+[![Hyperledger Certified Developer](https://img.shields.io/badge/Hyperledger-Certified%20Developer-00B2A9?style=flat&logo=hyperledger&logoColor=white)](https://www.hyperledger.org/learn/certification)
+[![Certified Blockchain Developer](https://img.shields.io/badge/Certified%20Blockchain%20Developer-FFB800?style=flat&logo=blockchain&logoColor=white)](https://www.blockchain-council.org/certifications/certified-blockchain-developer/)
+[![IBM Blockchain Foundation Developer](https://img.shields.io/badge/IBM%20Blockchain%20Foundation%20Developer-0052CC?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/certify/certifications/blockchain-foundation-developer)
+[![Certified Quantum Developer](https://img.shields.io/badge/Certified%20Quantum%20Developer-4B8BBE?style=flat&logo=quantum&logoColor=white)](https://www.quantum.org/)
+[![Corda Certified Developer](https://img.shields.io/badge/Corda-Certified%20Developer-0072B1?style=flat&logo=corda&logoColor=white)](https://www.corda.net/)
+[![Polkadot Developer Certification](https://img.shields.io/badge/Polkadot-Developer%20Certification-EC4A3A?style=flat&logo=polkadot&logoColor=white)](https://polkadot.network/)
+[![Certified Blockchain Expert](https://img.shields.io/badge/Certified%20Blockchain%20Expert-FFB800?style=flat&logo=blockchain&logoColor=white)](https://www.blockchain-council.org/certifications/certified-blockchain-expert/)
+
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Blockchain-Nexus">Quantum Nexus DAO</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # QuantumNexusDAO
