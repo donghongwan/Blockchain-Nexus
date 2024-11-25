@@ -5,6 +5,12 @@
 [![World Bank Research](https://img.shields.io/badge/World%20Bank%20Research-Publication-brightgreen)](https://www.worldbank.org/en/research)
 [![World Bank Projects](https://img.shields.io/badge/World%20Bank%20Projects-Active%20Projects-blue)](https://projects.worldbank.org/)
 [![World Bank Group Learning](https://img.shields.io/badge/World%20Bank%20Group%20Learning-Learning%20Resources-blue)](https://www.worldbank.org/en/learning)
+[![World Bank Gender Equality](https://img.shields.io/badge/World%20Bank%20Gender%20Equality-Gender%20Equality-pink)](https://www.worldbank.org/en/topic/gender)
+[![World Bank Health](https://img.shields.io/badge/World%20Bank%20Health-Health%20Initiatives-lightgreen)](https://www.worldbank.org/en/topic/health)
+[![World Bank Education](https://img.shields.io/badge/World%20Bank%20Education-Education%20Initiatives-lightyellow)](https://www.worldbank.org/en/topic/education)
+[![World Bank Infrastructure](https://img.shields.io/badge/World%20Bank%20Infrastructure-Infrastructure%20Projects-orange)](https://www.worldbank.org/en/topic/infrastructure)
+[![World Bank Poverty Reduction](https://img.shields.io/badge/World%20Bank%20Poverty%20Reduction-Poverty%20Reduction-blueviolet)](https://www.worldbank.org/en/topic/poverty)
+You can copy and 
 [![International Finance Corporation](https://img.shields.io/badge/IFC-Investment%20Partner-brightgreen)](https://www.ifc.org/)
 [![Multilateral Investment Guarantee Agency](https://img.shields.io/badge/MIGA-Investment%20Guarantee-brightgreen)](https://www.miga.org/)
 [![World Bank Climate Change](https://img.shields.io/badge/World%20Bank%20Climate%20Change-Climate%20Action-blue)](https://www.worldbank.org/en/topic/climatechange)
