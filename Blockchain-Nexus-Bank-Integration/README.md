@@ -67,6 +67,22 @@
 [![Société Générale](https://img.shields.io/badge/Société%20Générale-Financial%20Services-lightgreen)](https://www.societegenerale.com/en/)
 [![Rabobank](https://img.shields.io/badge/Rabobank-Dutch%20Banking-yellow)](https://www.rabobank.com/en/home/)
 [![Nordea](https://img.shields.io/badge/Nordea-Scandinavian%20Banking-blue)](https://www.nordea.com/en/)
+[![Wells Fargo](https://img.shields.io/badge/Wells%20Fargo-Global%20Banking-brightgreen)](https://www.wellsfargo.com/)
+[![Bank of America](https://img.shields.io/badge/Bank%20of%20America-Global%20Banking%20and%20Financial%20Services-blue)](https://www.bankofamerica.com/)
+[![JPMorgan Chase](https://img.shields.io/badge/JPMorgan%20Chase-Investment%20Banking-orange)](https://www.jpmorganchase.com/)
+[![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-Investment%20Banking-yellow)](https://www.goldmansachs.com/)
+[![Morgan Stanley](https://img.shields.io/badge/Morgan%20Stanley-Investment%20Banking-purple)](https://www.morganstanley.com/)
+[![DBS Bank](https://img.shields.io/badge/DBS%20Bank-Singapore%20Banking-red)](https://www.dbs.com.sg/)
+[![ANZ](https://img.shields.io/badge/ANZ-Australian%20Banking-lightblue)](https://www.anz.com/)
+[![Commonwealth Bank](https://img.shields.io/badge/Commonwealth%20Bank-Australian%20Banking-lightgreen)](https://www.commbank.com.au/)
+[![National Australia Bank](https://img.shields.io/badge/National%20Australia%20Bank-Australian%20Banking-lightyellow)](https://www.nab.com.au/)
+[![Scotiabank](https://img.shields.io/badge/Scotiabank-Canadian%20Banking-blueviolet)](https://www.scotiabank.com/)
+[![BMO Financial Group](https://img.shields.io/badge/BMO%20Financial%20Group-Canadian%20Banking-orange)](https://www.bmo.com/)
+[![KBC Group](https://img.shields.io/badge/KBC%20Group-Belgian%20Banking-red)](https://www.kbc.com/en/home.html)
+[![Raiffeisen Bank](https://img.shields.io/badge/Raiffeisen%20Bank-Austrian%20Banking-lightblue)](https://www.raiffeisen.at/)
+[![UniCredit](https://img.shields.io/badge/UniCredit-Italian%20Banking-lightgreen)](https://www.unicreditgroup.eu/en.html)
+[![CIBC](https://img.shields.io/badge/CIBC-Canadian%20Banking-yellow)](https://www.cibc.com/)
+[![Fifth Third Bank](https://img.shields.io/badge/Fifth%20Third%20Bank-Regional%20Banking-blue)](https://www.53.com/)
 
 # Blockchain Nexus Integration
 
