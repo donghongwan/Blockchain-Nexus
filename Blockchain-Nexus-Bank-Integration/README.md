@@ -35,6 +35,22 @@
 [![Stripe](https://img.shields.io/badge/Stripe-Payment%20Processor-blue)](https://stripe.com/)
 [![Square](https://img.shields.io/badge/Square-Payment%20Solutions-red)](https://squareup.com/)
 [![Revolut](https://img.shields.io/badge/Revolut-Digital%20Banking-lightblue)](https://www.revolut.com/)
+[![Fintech Connect](https://img.shields.io/badge/Fintech%20Connect-Industry%20Event-brightgreen)](https://www.fintechconnect.com/)
+[![Finovate](https://img.shields.io/badge/Finovate-Showcase%20Event-blue)](https://finovate.com/)
+[![N26](https://img.shields.io/badge/N26-Digital%20Bank-orange)](https://n26.com/)
+[![Chime](https://img.shields.io/badge/Chime-Online%20Banking-yellow)](https://www.chime.com/)
+[![Robinhood](https://img.shields.io/badge/Robinhood-Stock%20Trading%20App-purple)](https://robinhood.com/)
+[![TransferWise (Wise)](https://img.shields.io/badge/TransferWise%20(Wise)-Money%20Transfer%20Service-red)](https://wise.com/)
+[![Kabbage](https://img.shields.io/badge/Kabbage-Small%20Business%20Loans-lightblue)](https://www.kabbage.com/)
+[![LendingClub](https://img.shields.io/badge/LendingClub-Peer%20to%20Peer%20Lending-lightgreen)](https://www.lendingclub.com/)
+[![Affirm](https://img.shields.io/badge/Affirm-Point%20of%20Sale%20Financing-lightyellow)](https://www.affirm.com/)
+[![SoFi](https://img.shields.io/badge/SoFi-Personal%20Finance%20Platform-blueviolet)](https://www.sofi.com/)
+[![Zelle](https://img.shields.io/badge/Zelle-Payment%20Service-orange)](https://www.zellepay.com/)
+[![Plaid](https://img.shields.io/badge/Plaid-Financial%20Data%20API-brightgreen)](https://plaid.com/)
+[![Coinbase](https://img.shields.io/badge/Coinbase-Cryptocurrency%20Exchange-blue)](https://www.coinbase.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-Cryptocurrency%20Exchange-orange)](https://www.gemini.com/)
+[![BitPay](https://img.shields.io/badge/BitPay-Crypto%20Payment%20Processor-red)](https://bitpay.com/)
+[![Wealthfront](https://img.shields.io/badge/Wealthfront-Robo%20Advisor-lightblue)](https://www.wealthfront.com/)
 
 # Blockchain Nexus Integration
 
