@@ -51,6 +51,22 @@
 [![Gemini](https://img.shields.io/badge/Gemini-Cryptocurrency%20Exchange-orange)](https://www.gemini.com/)
 [![BitPay](https://img.shields.io/badge/BitPay-Crypto%20Payment%20Processor-red)](https://bitpay.com/)
 [![Wealthfront](https://img.shields.io/badge/Wealthfront-Robo%20Advisor-lightblue)](https://www.wealthfront.com/)
+[![HSBC](https://img.shields.io/badge/HSBC-International%20Banking-brightgreen)](https://www.hsbc.com/)
+[![Citibank](https://img.shields.io/badge/Citibank-Global%20Banking-blue)](https://www.citibank.com/)
+[![Deutsche Bank](https://img.shields.io/badge/Deutsche%20Bank-Investment%20Banking-orange)](https://www.db.com/)
+[![Barclays](https://img.shields.io/badge/Barclays-Global%20Banking%20and%20Investment%20Services-yellow)](https://www.barclays.com/)
+[![BNP Paribas](https://img.shields.io/badge/BNP%20Paribas-Financial%20Services-purple)](https://group.bnpparibas/)
+[![Santander](https://img.shields.io/badge/Santander-Global%20Banking%20Group-red)](https://www.santander.com/)
+[![UBS](https://img.shields.io/badge/UBS-Wealth%20Management-lightblue)](https://www.ubs.com/)
+[![Credit Suisse](https://img.shields.io/badge/Credit%20Suisse-Investment%20Banking-lightgreen)](https://www.credit-suisse.com/)
+[![Standard Chartered](https://img.shields.io/badge/Standard%20Chartered-International%20Banking-lightyellow)](https://www.sc.com/)
+[![Royal Bank of Canada](https://img.shields.io/badge/RBC-Canadian%20Banking%20Services-blueviolet)](https://www.rbc.com/)
+[![ING](https://img.shields.io/badge/ING-Dutch%20Bank-orange)](https://www.ing.com/)
+[![Mizuho Financial Group](https://img.shields.io/badge/Mizuho%20Financial%20Group-Japanese%20Banking-red)](https://www.mizuho-fg.com/)
+[![Bank of China](https://img.shields.io/badge/Bank%20of%20China-International%20Banking-lightblue)](http://www.boc.cn/en/)
+[![Société Générale](https://img.shields.io/badge/Société%20Générale-Financial%20Services-lightgreen)](https://www.societegenerale.com/en/)
+[![Rabobank](https://img.shields.io/badge/Rabobank-Dutch%20Banking-yellow)](https://www.rabobank.com/en/home/)
+[![Nordea](https://img.shields.io/badge/Nordea-Scandinavian%20Banking-blue)](https://www.nordea.com/en/)
 
 # Blockchain Nexus Integration
 
