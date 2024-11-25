@@ -83,6 +83,23 @@
 [![UniCredit](https://img.shields.io/badge/UniCredit-Italian%20Banking-lightgreen)](https://www.unicreditgroup.eu/en.html)
 [![CIBC](https://img.shields.io/badge/CIBC-Canadian%20Banking-yellow)](https://www.cibc.com/)
 [![Fifth Third Bank](https://img.shields.io/badge/Fifth%20Third%20Bank-Regional%20Banking-blue)](https://www.53.com/)
+[![Credit Agricole](https://img.shields.io/badge/Credit%20Agricole-French%20Banking-brightgreen)](https://www.credit-agricole.com/)
+[![Intesa Sanpaolo](https://img.shields.io/badge/Intesa%20Sanpaolo-Italian%20Banking-blue)](https://www.intesasanpaolo.com/)
+[![Lloyds Banking Group](https://img.shields.io/badge/Lloyds%20Banking%20Group-UK%20Banking-orange)](https://www.lloydsbankinggroup.com/)
+[![Rabobank](https://img.shields.io/badge/Rabobank-Dutch%20Banking-yellow)](https://www.rabobank.com/en/home/)
+[![Sberbank](https://img.shields.io/badge/Sberbank-Russian%20Banking-purple)](https://www.sberbank.ru/en/)
+[![Bank of New Zealand](https://img.shields.io/badge/Bank%20of%20New%20Zealand-New%20Zealand%20Banking-red)](https://www.bnz.co.nz/)
+[![First Abu Dhabi Bank](https://img.shields.io/badge/First%20Abu%20Dhabi%20Bank-UAE%20Banking-lightblue)](https://bankfab.com/)
+[![Emirates NBD](https://img.shields.io/badge/Emirates%20NBD-UAE%20Banking-lightgreen)](https://www.emiratesnbd.com/)
+[![Qatar National Bank](https://img.shields.io/badge/Qatar%20National%20Bank-Qatar%20Banking-lightyellow)](https://www.qnb.com/)
+[![Bank of Montreal](https://img.shields.io/badge/Bank%20of%20Montreal-Canadian%20Banking-blueviolet)](https://www.bmo.com/)
+[![Citi Private Bank](https://img.shields.io/badge/Citi%20Private%20Bank-Private%20Banking-orange)](https://www.citiprivatebank.com/)
+[![Piraeus Bank](https://img.shields.io/badge/Piraeus%20Bank-Greek%20Banking-red)](https://www.piraeusbank.gr/en/home)
+[![Bank of Ireland](https://img.shields.io/badge/Bank%20of%20Ireland-Irish%20Banking-lightblue)](https://www.bankofireland.com/)
+[![Belfius](https://img.shields.io/badge/Belfius-Belgian%20Banking-lightgreen)](https://www.belfius.be/)
+[![KfW Bank](https://img.shields.io/badge/KfW%20Bank-German%20Development%20Bank-yellow)](https://www.kfw.de/)
+[![Zürcher Kantonalbank](https://img.shields.io/badge/Zürcher%20Kantonalbank-Swiss%20Banking-blue)](https://www.zkb.ch/)
+[![Caisse d'Epargne](https://img.shields.io/badge/Caisse%20d'Epargne-French%20Banking-purple)](https://www.caisse-epargne.fr/)
 
 # Blockchain Nexus Integration
 
