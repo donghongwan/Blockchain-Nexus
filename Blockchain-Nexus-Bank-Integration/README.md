@@ -21,6 +21,21 @@ You can copy and
 [![CFP](https://img.shields.io/badge/CFP%20Board-CFP-brightgreen)](https://www.cfp.net/)
 [![ISO 27001](https://img.shields.io/badge/ISO%2027001-Certified-brightgreen)](https://www.iso.org/isoiec-27001-information-security.html)
 [![PCI DSS](https://img.shields.io/badge/PCI%20Security%20Standards%20Council-PCI%20DSS-brightgreen)](https://www.pcisecuritystandards.org/)
+[![Fintech Innovation Lab](https://img.shields.io/badge/Fintech%20Innovation%20Lab-Innovation%20Hub-brightgreen)](https://www.fintechinnovationlab.com/)
+[![Financial Technology Association](https://img.shields.io/badge/Financial%20Technology%20Association-Advocacy%20Group-blue)](https://www.ftassociation.org/)
+[![Global Fintech Fest](https://img.shields.io/badge/Global%20Fintech%20Fest-Annual%20Event-orange)](https://www.globalfintechfest.com/)
+[![Fintech Sandbox](https://img.shields.io/badge/Fintech%20Sandbox-Testing%20Environment-yellow)](https://fintechsandbox.org/)
+[![Open Banking Initiative](https://img.shields.io/badge/Open%20Banking%20Initiative-Open%20Banking-purple)](https://www.openbanking.org.uk/)
+[![Blockchain Association](https://img.shields.io/badge/Blockchain%20Association-Advocacy%20Group-red)](https://www.blockchainassociation.org/)
+[![Fintech Australia](https://img.shields.io/badge/Fintech%20Australia-Industry%20Body-lightblue)](https://fintechaustralia.org.au/)
+[![European Fintech Alliance](https://img.shields.io/badge/European%20Fintech%20Alliance-Advocacy%20Group-lightgreen)](https://europeanfintechalliance.eu/)
+[![Fintech Circle](https://img.shields.io/badge/Fintech%20Circle-Investment%20Network-lightyellow)](https://fintechcircle.com/)
+[![Techstars Fintech Accelerator](https://img.shields.io/badge/Techstars%20Fintech%20Accelerator-Startup%20Accelerator-blueviolet)](https://www.techstars.com/accelerators/fintech)
+[![Y Combinator](https://img.shields.io/badge/Y%20Combinator-Startup%20Accelerator-orange)](https://www.ycombinator.com/)
+[![Plaid](https://img.shields.io/badge/Plaid-API%20Provider-brightgreen)](https://plaid.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-Payment%20Processor-blue)](https://stripe.com/)
+[![Square](https://img.shields.io/badge/Square-Payment%20Solutions-red)](https://squareup.com/)
+[![Revolut](https://img.shields.io/badge/Revolut-Digital%20Banking-lightblue)](https://www.revolut.com/)
 
 # Blockchain Nexus Integration
 
