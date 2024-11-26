@@ -1,3 +1,4 @@
+[![Nexus Certified Developer](https://img.shields.io/badge/Nexus-Certified%20Developer-4B8DF8?style=flat&logo=nexus)](https://nexus.io/)
 [![Ethereum Certified Developer](https://img.shields.io/badge/Ethereum-Certified%20Developer-3C3C3D?style=flat&logo=ethereum)](https://ethereum.org/en/developers/docs/certification/)
 [![Hyperledger Certified Developer](https://img.shields.io/badge/Hyperledger-Certified%20Developer-00B2A9?style=flat&logo=hyperledger)](https://www.hyperledger.org/learn/certification)
 [![Solidity Certified Developer](https://img.shields.io/badge/Solidity-Certified%20Developer-4EAA25?style=flat&logo=solidity)](https://soliditylang.org/)
@@ -58,6 +59,20 @@
 [![Reddcoin Certified Developer](https://img.shields.io/badge/Reddcoin-Certified%20Developer-FF0000?style=flat&logo=reddcoin)](https://reddcoin.com/)
 [![Steem Certified Developer](https://img.shields.io/badge/Steem-Certified%20Developer-00B2A9?style=flat&logo=steem)](https://steem.com/)
 [![Wanchain Certified Developer](https://img.shields.io/badge/Wanchain-Certified%20Developer-00B2A9?style=flat&logo=wanchain)](https://wanchain.org/)
+[![BitTorrent Certified Developer](https://img.shields.io/badge/BitTorrent-Certified%20Developer-FF6A00?style=flat&logo=bittorrent)](https://bittorrent.com/)
+[![Celo Certified Developer](https://img.shields.io/badge/Celo-Certified%20Developer-00B2A9?style=flat&logo=celo)](https://celo.org/)
+[![Fantom Certified Developer](https://img.shields.io/badge/Fantom-Certified%20Developer-1B1F3A?style=flat&logo=fantom)](https://fantom.foundation/)
+[![Holochain Certified Developer](https://img.shields.io/badge/Holochain-Certified%20Developer-FFB800?style=flat&logo=holocoin)](https://holochain.org/)
+[![Nervos Certified Developer](https://img.shields.io/badge/Nervos-Certified%20Developer-00B2A9?style=flat&logo=nervos)](https://www.nervos.org/)
+[![Oasis Certified Developer](https://img.shields.io/badge/Oasis-Certified%20Developer-4B8DF8?style=flat&logo=oasis)](https://oasisprotocol.org/)
+[![Ravencoin Certified Developer](https://img.shields.io/badge/Ravencoin-Certified%20Developer-FF0000?style=flat&logo=ravencoin)](https://ravencoin.org/)
+[![Telos Certified Developer](https://img.shields.io/badge/Telos-Certified%20Developer-00B2A9?style=flat&logo=telos)](https://telos.net/)
+[![Zcoin Certified Developer](https://img.shields.io/badge/Zcoin-Certified%20Developer-4B8DF8?style=flat&logo=zcoin)](https://zcoin.io/)
+[![Cindicator Certified Developer](https://img.shields.io/badge/Cindicator-Certified%20Developer-FFB800?style=flat&logo=cindicator)](https://cindicator.com/)
+[![Syscoin Certified Developer](https://img.shields.io/badge/Syscoin-Certified%20Developer-00B2A9?style=flat&logo=syscoin)](https://syscoin.org/)
+[![Waves Certified Developer](https://img.shields.io/badge/Waves-Certified%20Developer-1C1C1C?style=flat&logo=waves)](https://waves.tech/)
+[![Cortex Certified Developer](https://img.shields.io/badge/Cortex-Certified%20Developer-4B8DF8?style=flat&logo=cortex)](https://www.cortexlabs.ai/)
+[![PIVX Certified Developer](https://img.shields.io/badge/PIVX-Certified%20Developer-4B8DF8?style=flat&logo=pivx)](https://pivx.org/)
 
 # QuantumNexusProtocol
 
