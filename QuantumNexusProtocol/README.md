@@ -88,6 +88,21 @@
 [![NKN Certified Developer](https://img.shields.io/badge/NKN-Certified%20Developer-FFB800?style=flat&logo=nkn)](https://nkn.org/)
 [![Syscoin Certified Developer](https://img.shields.io/badge/Syscoin-Certified%20Developer-00B2A9?style=flat&logo=syscoin)](https://syscoin.org/)
 [![Kadena Certified Developer](https://img.shields.io/badge/Kadena-Certified%20Developer-00B2A9?style=flat&logo=kadena)](https://kadena.io/)
+[![Aion Certified Developer](https://img.shields.io/badge/Aion-Certified%20Developer-00B2A9?style=flat&logo=aion)](https://aion.network/)
+[![Cindicator Certified Developer](https://img.shields.io/badge/Cindicator-Certified%20Developer-FFB800?style=flat&logo=cindicator)](https://cindicator.com/)
+[![Fusion Certified Developer](https://img.shields.io/badge/Fusion-Certified%20Developer-4B8DF8?style=flat&logo=fusion)](https://fusion.org/)
+[![IoTeX Certified Developer](https://img.shields.io/badge/IoTeX-Certified%20Developer-00B2A9?style=flat&logo=iotex)](https://iotex.io/)
+[![Matic Certified Developer](https://img.shields.io/badge/Matic-Certified%20Developer-8247E5?style=flat&logo=matic)](https://matic.network/)
+[![Nervos Certified Developer](https://img.shields.io/badge/Nervos-Certified%20Developer-00B2A9?style=flat&logo=nervos)](https://www.nervos.org/)
+[![Origin Certified Developer](https://img.shields.io/badge/Origin-Certified%20Developer-FFB800?style=flat&logo=origin)](https://originprotocol.com/)
+[![Ravencoin Certified Developer](https://img.shields.io/badge/Ravencoin-Certified%20Developer-FF0000?style=flat&logo=ravencoin)](https://ravencoin.org/)
+[![Sia Certified Developer](https://img.shields.io/badge/Sia-Certified%20Developer-00B2A9?style=flat&logo=sia)](https://sia.tech/)
+[![Theta Certified Developer](https://img.shields.io/badge/Theta-Certified%20Developer-4B8DF8?style=flat&logo=theta)](https://www.thetatoken.org/)
+[![VeChain Certified Developer](https://img.shields.io/badge/VeChain-Certified%20Developer-00B2A9?style=flat&logo=vechain)](https://www.vechain.org/)
+[![Waves Certified Developer](https://img.shields.io/badge/Waves-Certified%20Developer-1C1C1C?style=flat&logo=waves)](https://waves.tech/)
+[![Zilliqa Certified Developer](https://img.shields.io/badge/Zilliqa-Certified%20Developer-1C1C1C?style=flat&logo=zilliqa)](https://zilliqa.com/)
+[![Holochain Certified Developer](https://img.shields.io/badge/Holochain-Certified%20Developer-FFB800?style=flat&logo=holocoin)](https://holochain.org/)
+[![Kusama Certified Developer](https://img.shields.io/badge/Kusama-Certified%20Developer-00B2A9?style=flat&logo=kusama)](https://kusama.network/)
 
 # QuantumNexusProtocol
 
