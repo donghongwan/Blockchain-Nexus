@@ -1,3 +1,13 @@
+[![Ethereum Certified Developer](https://img.shields.io/badge/Ethereum-Certified%20Developer-3C3C3D?style=flat&logo=ethereum)](https://ethereum.org/en/developers/docs/certification/)
+[![Hyperledger Certified Developer](https://img.shields.io/badge/Hyperledger-Certified%20Developer-00B2A9?style=flat&logo=hyperledger)](https://www.hyperledger.org/learn/certification)
+[![Solidity Certified Developer](https://img.shields.io/badge/Solidity-Certified%20Developer-4EAA25?style=flat&logo=solidity)](https://soliditylang.org/)
+[![Corda Certified Developer](https://img.shields.io/badge/Corda-Certified%20Developer-0072B1?style=flat&logo=corda)](https://www.r3.com/corda/)
+[![Blockchain Council Certified](https://img.shields.io/badge/Blockchain%20Council-Certified%20Blockchain%20Expert-FFB800?style=flat&logo=blockchain)](https://www.blockchain-council.org/)
+[![IBM Blockchain Developer](https://img.shields.io/badge/IBM-Blockchain%20Developer-0052CC?style=flat&logo=ibm)](https://www.ibm.com/training/blockchain)
+[![Certified Bitcoin Professional](https://img.shields.io/badge/Certified%20Bitcoin%20Professional-CPB-FF9900?style=flat&logo=bitcoin)](https://www.cryptocurrencycertification.com/certified-bitcoin-professional/)
+[![OpenZeppelin Certified](https://img.shields.io/badge/OpenZeppelin-Certified%20Smart%20Contract-4B8DF8?style=flat&logo=openzeppelin)](https://openzeppelin.com/)
+[![ChainSafe Certified](https://img.shields.io/badge/ChainSafe-Certified%20Developer-00A3E0?style=flat&logo=chainsafe)](https://chainsafe.io/)
+
 # QuantumNexusProtocol
 
 ## Overview
