@@ -7,6 +7,28 @@
 [![Certified Bitcoin Professional](https://img.shields.io/badge/Certified%20Bitcoin%20Professional-CPB-FF9900?style=flat&logo=bitcoin)](https://www.cryptocurrencycertification.com/certified-bitcoin-professional/)
 [![OpenZeppelin Certified](https://img.shields.io/badge/OpenZeppelin-Certified%20Smart%20Contract-4B8DF8?style=flat&logo=openzeppelin)](https://openzeppelin.com/)
 [![ChainSafe Certified](https://img.shields.io/badge/ChainSafe-Certified%20Developer-00A3E0?style=flat&logo=chainsafe)](https://chainsafe.io/)
+[![Dfinity Certified Developer](https://img.shields.io/badge/Dfinity-Certified%20Developer-00BFFF?style=flat&logo=dfinity)](https://dfinity.org/)
+[![Cardano Certified](https://img.shields.io/badge/Cardano-Certified%20Developer-3CCBDA?style=flat&logo=cardano)](https://cardano.org/)
+[![Tezos Certified Developer](https://img.shields.io/badge/Tezos-Certified%20Developer-000000?style=flat&logo=tezos)](https://tezos.com/)
+[![Polkadot Certified Developer](https://img.shields.io/badge/Polkadot-Certified%20Developer-E6007E?style=flat&logo=polkadot)](https://polkadot.network/)
+[![Avalanche Certified Developer](https://img.shields.io/badge/Avalanche-Certified%20Developer-FFB800?style=flat&logo=avalanche)](https://www.avax.network/)
+[![Algorand Certified Developer](https://img.shields.io/badge/Algorand-Certified%20Developer-00B2A9?style=flat&logo=algorand)](https://algorand.com/)
+[![NEO Certified Developer](https://img.shields.io/badge/NEO-Certified%20Developer-00A86B?style=flat&logo=neo)](https://neo.org/)
+[![EOS Certified Developer](https://img.shields.io/badge/EOS-Certified%20Developer-0E4C92?style=flat&logo=eos)](https://eos.io/)
+[![Tron Certified Developer](https://img.shields.io/badge/Tron-Certified%20Developer-FF6A00?style=flat&logo=tron)](https://tron.network/)
+[![Ripple Certified Developer](https://img.shields.io/badge/Ripple-Certified%20Developer-00A1E0?style=flat&logo=ripple)](https://ripple.com/)
+[![Zilliqa Certified Developer](https://img.shields.io/badge/Zilliqa-Certified%20Developer-1C1C1C?style=flat&logo=zilliqa)](https://zilliqa.com/)
+[![Hedera Certified Developer](https://img.shields.io/badge/Hedera-Certified%20Developer-00B2A9?style=flat&logo=hedera)](https://hedera.com/)
+[![Fantom Certified Developer](https://img.shields.io/badge/Fantom-Certified%20Developer-1B1F3A?style=flat&logo=fantom)](https://fantom.foundation/)
+[![VeChain Certified Developer](https://img.shields.io/badge/VeChain-Certified%20Developer-4B8DF8?style=flat&logo=vechain)](https://www.vechain.org/)
+[![Kusama Certified Developer](https://img.shields.io/badge/Kusama-Certified%20Developer-6C6C6C?style=flat&logo=kusama)](https://kusama.network/)
+[![Avalanche Certified Developer](https://img.shields.io/badge/Avalanche-Certified%20Developer-FFB800?style=flat&logo=avalanche)](https://www.avax.network/)
+[![Algorand Certified Developer](https://img.shields.io/badge/Algorand-Certified%20Developer-00B2A9?style=flat&logo=algorand)](https://algorand.com/)
+[![Waves Certified Developer](https://img.shields.io/badge/Waves-Certified%20Developer-1C1C1C?style=flat&logo=waves)](https://waves.tech/)
+[![NEM Certified Developer](https://img.shields.io/badge/NEM-Certified%20Developer-4B8DF8?style=flat&logo=nem)](https://nem.io/)
+[![Ontology Certified Developer](https://img.shields.io/badge/Ontology-Certified%20Developer-00B2A9?style=flat&logo=ontology)](https://ont.io/)
+[![Celo Certified Developer](https://img.shields.io/badge/Celo-Certified%20Developer-00B2A9?style=flat&logo=celo)](https://celo.org/)
+
 
 # QuantumNexusProtocol
 
