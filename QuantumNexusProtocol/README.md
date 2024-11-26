@@ -103,6 +103,21 @@
 [![Zilliqa Certified Developer](https://img.shields.io/badge/Zilliqa-Certified%20Developer-1C1C1C?style=flat&logo=zilliqa)](https://zilliqa.com/)
 [![Holochain Certified Developer](https://img.shields.io/badge/Holochain-Certified%20Developer-FFB800?style=flat&logo=holocoin)](https://holochain.org/)
 [![Kusama Certified Developer](https://img.shields.io/badge/Kusama-Certified%20Developer-00B2A9?style=flat&logo=kusama)](https://kusama.network/)
+[![Algorand Certified Developer](https://img.shields.io/badge/Algorand-Certified%20Developer-00B2A9?style=flat&logo=algorand)](https://www.algorand.com/)
+[![Arweave Certified Developer](https://img.shields.io/badge/Arweave-Certified%20Developer-4B8DF8?style=flat&logo=arweave)](https://www.arweave.org/)
+[![Blockstack Certified Developer](https://img.shields.io/badge/Blockstack-Certified%20Developer-00B2A9?style=flat&logo=blockstack)](https://blockstack.org/)
+[![Celo Certified Developer](https://img.shields.io/badge/Celo-Certified%20Developer-00B2A9?style=flat&logo=celo)](https://celo.org/)
+[![Dfinity Certified Developer](https://img.shields.io/badge/Dfinity-Certified%20Developer-4B8DF8?style=flat&logo=dfinity)](https://dfinity.org/)
+[![Elrond Certified Developer](https://img.shields.io/badge/Elrond-Certified%20Developer-00B2A9?style=flat&logo=elrond)](https://elrond.com/)
+[![Fantom Certified Developer](https://img.shields.io/badge/Fantom-Certified%20Developer-1B1F3A?style=flat&logo=fantom)](https://fantom.foundation/)
+[![Hedera Certified Developer](https://img.shields.io/badge/Hedera-Certified%20Developer-00B2A9?style=flat&logo=hedera)](https://www.hedera.com/)
+[![Kadena Certified Developer](https://img.shields.io/badge/Kadena-Certified%20Developer-00B2A9?style=flat&logo=kadena)](https://kadena.io/)
+[![Mina Certified Developer](https://img.shields.io/badge/Mina-Certified%20Developer-00B2A9?style=flat&logo=mina)](https://minaprotocol.com/)
+[![NKN Certified Developer](https://img.shields.io/badge/NKN-Certified%20Developer-FFB800?style=flat&logo=nkn)](https://nkn.org/)
+[![Oasis Certified Developer](https://img.shields.io/badge/Oasis-Certified%20Developer-4B8DF8?style=flat&logo=oasis)](https://oasisprotocol.org/)
+[![Polkadot Certified Developer](https://img.shields.io/badge/Polkadot-Certified%20Developer-00B2A9?style=flat&logo=polkadot)](https://polkadot.network/)
+[![Secret Network Certified Developer](https://img.shields.io/badge/Secret%20Network-Certified%20Developer-4B8DF8?style=flat&logo=secret)](https://scrt.network/)
+[![Terra Certified Developer](https://img.shields.io/badge/Terra-Certified%20Developer-00B2A9?style=flat&logo=terra)](https://terra.money/)
 
 # QuantumNexusProtocol
 
