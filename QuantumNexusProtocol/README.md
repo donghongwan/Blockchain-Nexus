@@ -61,14 +61,14 @@ After installation, you can start using the QuantumNexusProtocol by following th
 ## Documentation
 Comprehensive documentation is available in the /docs directory, covering:
 
-- Architecture Overview
-- User Manual
-- API Reference
-- Security Whitepaper
-- Deployment Guide
-- Troubleshooting
-- Scalability Guide
-- Customization Guide
+- [Architecture Overview](architecture.md) 
+- [User Manual](user_manual.md) 
+- [API Reference](API_reference.md) 
+- [Security Whitepaper](security_whitepaper.md) 
+- [Deployment Guide](deployment_guide.md) 
+- [Troubleshooting](troubleshooting.md) 
+- [Scalability Guide](scalability_guide.md) 
+- [Customization Guide](customization_guide.md) 
 
 ## Testing
 To run the tests for the QuantumNexusProtocol, execute the following command:
