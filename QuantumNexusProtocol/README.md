@@ -61,7 +61,7 @@ After installation, you can start using the QuantumNexusProtocol by following th
 ## Documentation
 Comprehensive documentation is available in the /docs directory, covering:
 
-- [Architecture Overview](QuantumNexusProtocol/docs/architecture_overview.md) 
+- [Architecture Overview](docs/architecture_overview.md) 
 - [User Manual](user_manual.md) 
 - [API Reference](API_reference.md) 
 - [Security Whitepaper](security_whitepaper.md) 
